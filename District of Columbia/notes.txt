@@ -1,1 +1,1 @@
-
+This folder contains DC election results, downloaded from https://electionresults.dcboe.org/, on June 18, 2024. CSV files are provided from 2011 to 2024, and XLS are provided for 2010. Previous years are in PDF, not included yet.
