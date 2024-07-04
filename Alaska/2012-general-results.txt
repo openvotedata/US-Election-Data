@@ -1,0 +1,854 @@
+"Election Total","Race Statistics","NP","NP","Number of Precincts","NP","Total",438
+"Election Total","Race Statistics","NP","NP","Number of Precincts Reporting","NP","Total",438
+"Election Total","US PRESIDENT","NP","NP","Number of Precincts for Race","NP","Total",438
+"Election Total","US PRESIDENT","NP","NP","Number of Precincts Reporting","NP","Total",438
+"Election Total","US PRESIDENT","NP","NP","Registered Voters","NP","Total",506432
+"Election Total","US PRESIDENT","NP","NP","Times Counted","NP","Total",301694
+"Election Total","US PRESIDENT","NP","NP","Times Blank Voted","NP","Total",1054
+"Election Total","US PRESIDENT","NP","NP","Times Over Voted","NP","Total",145
+"Election Total","US PRESIDENT","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","US PRESIDENT","NP","NP","Johnson/Gray","LIB","Total",7392
+"Election Total","US PRESIDENT","NP","NP","Obama/Biden","DEM","Total",122640
+"Election Total","US PRESIDENT","NP","NP","Romney/Ryan","REP","Total",164676
+"Election Total","US PRESIDENT","NP","NP","Stein/Honkala","GRE","Total",2917
+"Election Total","US PRESIDENT","NP","NP","Write-in 50","NP","Total",2870
+"Election Total","US REPRESENTATIVE","NP","NP","Number of Precincts for Race","NP","Total",438
+"Election Total","US REPRESENTATIVE","NP","NP","Number of Precincts Reporting","NP","Total",438
+"Election Total","US REPRESENTATIVE","NP","NP","Registered Voters","NP","Total",506432
+"Election Total","US REPRESENTATIVE","NP","NP","Times Counted","NP","Total",296959
+"Election Total","US REPRESENTATIVE","NP","NP","Times Blank Voted","NP","Total",7075
+"Election Total","US REPRESENTATIVE","NP","NP","Times Over Voted","NP","Total",80
+"Election Total","US REPRESENTATIVE","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","US REPRESENTATIVE","NP","NP","Cissna, Sharon M.","DEM","Total",82927
+"Election Total","US REPRESENTATIVE","NP","NP","Gianoutsos, Ted","NA","Total",5589
+"Election Total","US REPRESENTATIVE","NP","NP","McDermott, Jim C.","LIB","Total",15028
+"Election Total","US REPRESENTATIVE","NP","NP","Young, Don","REP","Total",185296
+"Election Total","US REPRESENTATIVE","NP","NP","Write-in 50","NP","Total",964
+"Election Total","SENATE DISTRICT A","NP","NP","Number of Precincts for Race","NP","Total",13
+"Election Total","SENATE DISTRICT A","NP","NP","Number of Precincts Reporting","NP","Total",13
+"Election Total","SENATE DISTRICT A","NP","NP","Registered Voters","NP","Total",28394
+"Election Total","SENATE DISTRICT A","NP","NP","Times Counted","NP","Total",16113
+"Election Total","SENATE DISTRICT A","NP","NP","Times Blank Voted","NP","Total",423
+"Election Total","SENATE DISTRICT A","NP","NP","Times Over Voted","NP","Total",8
+"Election Total","SENATE DISTRICT A","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","SENATE DISTRICT A","NP","NP","Coghill, John B. Jr.","REP","Total",9464
+"Election Total","SENATE DISTRICT A","NP","NP","Thomas, Joe J.","DEM","Total",6175
+"Election Total","SENATE DISTRICT A","NP","NP","Write-in 30","NP","Total",43
+"Election Total","SENATE DISTRICT B","NP","NP","Number of Precincts for Race","NP","Total",15
+"Election Total","SENATE DISTRICT B","NP","NP","Number of Precincts Reporting","NP","Total",15
+"Election Total","SENATE DISTRICT B","NP","NP","Registered Voters","NP","Total",25499
+"Election Total","SENATE DISTRICT B","NP","NP","Times Counted","NP","Total",11833
+"Election Total","SENATE DISTRICT B","NP","NP","Times Blank Voted","NP","Total",314
+"Election Total","SENATE DISTRICT B","NP","NP","Times Over Voted","NP","Total",2
+"Election Total","SENATE DISTRICT B","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","SENATE DISTRICT B","NP","NP","Kelly, Pete","REP","Total",6232
+"Election Total","SENATE DISTRICT B","NP","NP","Paskvan, Joe","DEM","Total",5249
+"Election Total","SENATE DISTRICT B","NP","NP","Write-in 30","NP","Total",36
+"Election Total","SENATE DISTRICT C","NP","NP","Number of Precincts for Race","NP","Total",19
+"Election Total","SENATE DISTRICT C","NP","NP","Number of Precincts Reporting","NP","Total",19
+"Election Total","SENATE DISTRICT C","NP","NP","Registered Voters","NP","Total",25792
+"Election Total","SENATE DISTRICT C","NP","NP","Times Counted","NP","Total",14844
+"Election Total","SENATE DISTRICT C","NP","NP","Times Blank Voted","NP","Total",564
+"Election Total","SENATE DISTRICT C","NP","NP","Times Over Voted","NP","Total",3
+"Election Total","SENATE DISTRICT C","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","SENATE DISTRICT C","NP","NP","Bishop, Click","REP","Total",10051
+"Election Total","SENATE DISTRICT C","NP","NP","Sudkamp, Anne","DEM","Total",4074
+"Election Total","SENATE DISTRICT C","NP","NP","Write-in 30","NP","Total",152
+"Election Total","SENATE DISTRICT D","NP","NP","Number of Precincts for Race","NP","Total",18
+"Election Total","SENATE DISTRICT D","NP","NP","Number of Precincts Reporting","NP","Total",18
+"Election Total","SENATE DISTRICT D","NP","NP","Registered Voters","NP","Total",25542
+"Election Total","SENATE DISTRICT D","NP","NP","Times Counted","NP","Total",14802
+"Election Total","SENATE DISTRICT D","NP","NP","Times Blank Voted","NP","Total",2361
+"Election Total","SENATE DISTRICT D","NP","NP","Times Over Voted","NP","Total",1
+"Election Total","SENATE DISTRICT D","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","SENATE DISTRICT D","NP","NP","Dunleavy, Mike J.","REP","Total",11724
+"Election Total","SENATE DISTRICT D","NP","NP","Write-in 20","NP","Total",716
+"Election Total","SENATE DISTRICT E","NP","NP","Number of Precincts for Race","NP","Total",12
+"Election Total","SENATE DISTRICT E","NP","NP","Number of Precincts Reporting","NP","Total",12
+"Election Total","SENATE DISTRICT E","NP","NP","Registered Voters","NP","Total",23736
+"Election Total","SENATE DISTRICT E","NP","NP","Times Counted","NP","Total",13106
+"Election Total","SENATE DISTRICT E","NP","NP","Times Blank Voted","NP","Total",448
+"Election Total","SENATE DISTRICT E","NP","NP","Times Over Voted","NP","Total",1
+"Election Total","SENATE DISTRICT E","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","SENATE DISTRICT E","NP","NP","Herman, Susan M. Par","DEM","Total",2790
+"Election Total","SENATE DISTRICT E","NP","NP","Huggins, Charles R. ","REP","Total",9828
+"Election Total","SENATE DISTRICT E","NP","NP","Write-in 30","NP","Total",39
+"Election Total","SENATE DISTRICT F","NP","NP","Number of Precincts for Race","NP","Total",12
+"Election Total","SENATE DISTRICT F","NP","NP","Number of Precincts Reporting","NP","Total",12
+"Election Total","SENATE DISTRICT F","NP","NP","Registered Voters","NP","Total",24788
+"Election Total","SENATE DISTRICT F","NP","NP","Times Counted","NP","Total",14003
+"Election Total","SENATE DISTRICT F","NP","NP","Times Blank Voted","NP","Total",757
+"Election Total","SENATE DISTRICT F","NP","NP","Times Over Voted","NP","Total",1
+"Election Total","SENATE DISTRICT F","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","SENATE DISTRICT F","NP","NP","Lindeke, Martin J.","DEM","Total",3238
+"Election Total","SENATE DISTRICT F","NP","NP","Dyson, Fred J.","REP","Total",9954
+"Election Total","SENATE DISTRICT F","NP","NP","Write-in 30","NP","Total",53
+"Election Total","SENATE DISTRICT G","NP","NP","Number of Precincts for Race","NP","Total",12
+"Election Total","SENATE DISTRICT G","NP","NP","Number of Precincts Reporting","NP","Total",12
+"Election Total","SENATE DISTRICT G","NP","NP","Registered Voters","NP","Total",24345
+"Election Total","SENATE DISTRICT G","NP","NP","Times Counted","NP","Total",11846
+"Election Total","SENATE DISTRICT G","NP","NP","Times Blank Voted","NP","Total",459
+"Election Total","SENATE DISTRICT G","NP","NP","Times Over Voted","NP","Total",2
+"Election Total","SENATE DISTRICT G","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","SENATE DISTRICT G","NP","NP","Wielechowski, Bill","DEM","Total",6378
+"Election Total","SENATE DISTRICT G","NP","NP","Roses, Bob","REP","Total",4977
+"Election Total","SENATE DISTRICT G","NP","NP","Write-in 30","NP","Total",30
+"Election Total","SENATE DISTRICT H","NP","NP","Number of Precincts for Race","NP","Total",17
+"Election Total","SENATE DISTRICT H","NP","NP","Number of Precincts Reporting","NP","Total",17
+"Election Total","SENATE DISTRICT H","NP","NP","Registered Voters","NP","Total",24191
+"Election Total","SENATE DISTRICT H","NP","NP","Times Counted","NP","Total",12196
+"Election Total","SENATE DISTRICT H","NP","NP","Times Blank Voted","NP","Total",460
+"Election Total","SENATE DISTRICT H","NP","NP","Times Over Voted","NP","Total",2
+"Election Total","SENATE DISTRICT H","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","SENATE DISTRICT H","NP","NP","Smith, Don","REP","Total",4730
+"Election Total","SENATE DISTRICT H","NP","NP","Gardner, Berta","DEM","Total",6950
+"Election Total","SENATE DISTRICT H","NP","NP","Write-in 30","NP","Total",54
+"Election Total","SENATE DISTRICT I","NP","NP","Number of Precincts for Race","NP","Total",15
+"Election Total","SENATE DISTRICT I","NP","NP","Number of Precincts Reporting","NP","Total",15
+"Election Total","SENATE DISTRICT I","NP","NP","Registered Voters","NP","Total",22330
+"Election Total","SENATE DISTRICT I","NP","NP","Times Counted","NP","Total",10591
+"Election Total","SENATE DISTRICT I","NP","NP","Times Blank Voted","NP","Total",539
+"Election Total","SENATE DISTRICT I","NP","NP","Times Over Voted","NP","Total",6
+"Election Total","SENATE DISTRICT I","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","SENATE DISTRICT I","NP","NP","Ellis, Johnny","DEM","Total",6818
+"Election Total","SENATE DISTRICT I","NP","NP","Kendall, Paul D.","REP","Total",3190
+"Election Total","SENATE DISTRICT I","NP","NP","Write-in 30","NP","Total",38
+"Election Total","SENATE DISTRICT J","NP","NP","Number of Precincts for Race","NP","Total",15
+"Election Total","SENATE DISTRICT J","NP","NP","Number of Precincts Reporting","NP","Total",15
+"Election Total","SENATE DISTRICT J","NP","NP","Registered Voters","NP","Total",25657
+"Election Total","SENATE DISTRICT J","NP","NP","Times Counted","NP","Total",15718
+"Election Total","SENATE DISTRICT J","NP","NP","Times Blank Voted","NP","Total",532
+"Election Total","SENATE DISTRICT J","NP","NP","Times Over Voted","NP","Total",4
+"Election Total","SENATE DISTRICT J","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","SENATE DISTRICT J","NP","NP","Bell, Bob","REP","Total",7542
+"Election Total","SENATE DISTRICT J","NP","NP","French, Hollis S. II","DEM","Total",7593
+"Election Total","SENATE DISTRICT J","NP","NP","Write-in 30","NP","Total",47
+"Election Total","SENATE DISTRICT K","NP","NP","Number of Precincts for Race","NP","Total",15
+"Election Total","SENATE DISTRICT K","NP","NP","Number of Precincts Reporting","NP","Total",15
+"Election Total","SENATE DISTRICT K","NP","NP","Registered Voters","NP","Total",25036
+"Election Total","SENATE DISTRICT K","NP","NP","Times Counted","NP","Total",14635
+"Election Total","SENATE DISTRICT K","NP","NP","Times Blank Voted","NP","Total",558
+"Election Total","SENATE DISTRICT K","NP","NP","Times Over Voted","NP","Total",4
+"Election Total","SENATE DISTRICT K","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","SENATE DISTRICT K","NP","NP","McGuire, Lesil L. ","REP","Total",9291
+"Election Total","SENATE DISTRICT K","NP","NP","Cacy, Roselynn","DEM","Total",4694
+"Election Total","SENATE DISTRICT K","NP","NP","Write-in 30","NP","Total",88
+"Election Total","SENATE DISTRICT L","NP","NP","Number of Precincts for Race","NP","Total",15
+"Election Total","SENATE DISTRICT L","NP","NP","Number of Precincts Reporting","NP","Total",15
+"Election Total","SENATE DISTRICT L","NP","NP","Registered Voters","NP","Total",25097
+"Election Total","SENATE DISTRICT L","NP","NP","Times Counted","NP","Total",14812
+"Election Total","SENATE DISTRICT L","NP","NP","Times Blank Voted","NP","Total",579
+"Election Total","SENATE DISTRICT L","NP","NP","Times Over Voted","NP","Total",3
+"Election Total","SENATE DISTRICT L","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","SENATE DISTRICT L","NP","NP","Meyer, Kevin","REP","Total",10304
+"Election Total","SENATE DISTRICT L","NP","NP","Hale, Jacob O. \"Jake","DEM","Total",3894
+"Election Total","SENATE DISTRICT L","NP","NP","Write-in 30","NP","Total",32
+"Election Total","SENATE DISTRICT M","NP","NP","Number of Precincts for Race","NP","Total",15
+"Election Total","SENATE DISTRICT M","NP","NP","Number of Precincts Reporting","NP","Total",15
+"Election Total","SENATE DISTRICT M","NP","NP","Registered Voters","NP","Total",29180
+"Election Total","SENATE DISTRICT M","NP","NP","Times Counted","NP","Total",18328
+"Election Total","SENATE DISTRICT M","NP","NP","Times Blank Voted","NP","Total",597
+"Election Total","SENATE DISTRICT M","NP","NP","Times Over Voted","NP","Total",5
+"Election Total","SENATE DISTRICT M","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","SENATE DISTRICT M","NP","NP","Davis, Bettye","DEM","Total",6676
+"Election Total","SENATE DISTRICT M","NP","NP","Fairclough, Anna I.","REP","Total",11012
+"Election Total","SENATE DISTRICT M","NP","NP","Write-in 30","NP","Total",38
+"Election Total","SENATE DISTRICT N","NP","NP","Number of Precincts for Race","NP","Total",19
+"Election Total","SENATE DISTRICT N","NP","NP","Number of Precincts Reporting","NP","Total",19
+"Election Total","SENATE DISTRICT N","NP","NP","Registered Voters","NP","Total",28513
+"Election Total","SENATE DISTRICT N","NP","NP","Times Counted","NP","Total",18536
+"Election Total","SENATE DISTRICT N","NP","NP","Times Blank Voted","NP","Total",836
+"Election Total","SENATE DISTRICT N","NP","NP","Times Over Voted","NP","Total",5
+"Election Total","SENATE DISTRICT N","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","SENATE DISTRICT N","NP","NP","Devon, Ron","NA","Total",7202
+"Election Total","SENATE DISTRICT N","NP","NP","Giessel, Catherine A","REP","Total",10405
+"Election Total","SENATE DISTRICT N","NP","NP","Write-in 30","NP","Total",88
+"Election Total","SENATE DISTRICT O","NP","NP","Number of Precincts for Race","NP","Total",17
+"Election Total","SENATE DISTRICT O","NP","NP","Number of Precincts Reporting","NP","Total",17
+"Election Total","SENATE DISTRICT O","NP","NP","Registered Voters","NP","Total",28444
+"Election Total","SENATE DISTRICT O","NP","NP","Times Counted","NP","Total",16976
+"Election Total","SENATE DISTRICT O","NP","NP","Times Blank Voted","NP","Total",3290
+"Election Total","SENATE DISTRICT O","NP","NP","Times Over Voted","NP","Total",1
+"Election Total","SENATE DISTRICT O","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","SENATE DISTRICT O","NP","NP","Micciche, Peter A.","REP","Total",12947
+"Election Total","SENATE DISTRICT O","NP","NP","Write-in 20","NP","Total",738
+"Election Total","SENATE DISTRICT Q","NP","NP","Number of Precincts for Race","NP","Total",25
+"Election Total","SENATE DISTRICT Q","NP","NP","Number of Precincts Reporting","NP","Total",25
+"Election Total","SENATE DISTRICT Q","NP","NP","Registered Voters","NP","Total",26901
+"Election Total","SENATE DISTRICT Q","NP","NP","Times Counted","NP","Total",15755
+"Election Total","SENATE DISTRICT Q","NP","NP","Times Blank Voted","NP","Total",467
+"Election Total","SENATE DISTRICT Q","NP","NP","Times Over Voted","NP","Total",2
+"Election Total","SENATE DISTRICT Q","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","SENATE DISTRICT Q","NP","NP","Stedman, Bert K.","REP","Total",9829
+"Election Total","SENATE DISTRICT Q","NP","NP","Kookesh, Albert M.","DEM","Total",5413
+"Election Total","SENATE DISTRICT Q","NP","NP","Write-in 30","NP","Total",44
+"Election Total","SENATE DISTRICT R","NP","NP","Number of Precincts for Race","NP","Total",56
+"Election Total","SENATE DISTRICT R","NP","NP","Number of Precincts Reporting","NP","Total",56
+"Election Total","SENATE DISTRICT R","NP","NP","Registered Voters","NP","Total",22324
+"Election Total","SENATE DISTRICT R","NP","NP","Times Counted","NP","Total",11461
+"Election Total","SENATE DISTRICT R","NP","NP","Times Blank Voted","NP","Total",459
+"Election Total","SENATE DISTRICT R","NP","NP","Times Over Voted","NP","Total",3
+"Election Total","SENATE DISTRICT R","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","SENATE DISTRICT R","NP","NP","Henrichs, Robert J.","DEM","Total",3277
+"Election Total","SENATE DISTRICT R","NP","NP","Stevens, Gary L. ","REP","Total",7673
+"Election Total","SENATE DISTRICT R","NP","NP","Write-in 30","NP","Total",49
+"Election Total","SENATE DISTRICT S","NP","NP","Number of Precincts for Race","NP","Total",48
+"Election Total","SENATE DISTRICT S","NP","NP","Number of Precincts Reporting","NP","Total",48
+"Election Total","SENATE DISTRICT S","NP","NP","Registered Voters","NP","Total",20798
+"Election Total","SENATE DISTRICT S","NP","NP","Times Counted","NP","Total",10579
+"Election Total","SENATE DISTRICT S","NP","NP","Times Blank Voted","NP","Total",1959
+"Election Total","SENATE DISTRICT S","NP","NP","Times Over Voted","NP","Total",1
+"Election Total","SENATE DISTRICT S","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","SENATE DISTRICT S","NP","NP","Hoffman, Lyman F.","DEM","Total",8194
+"Election Total","SENATE DISTRICT S","NP","NP","Write-in 20","NP","Total",425
+"Election Total","SENATE DISTRICT T","NP","NP","Number of Precincts for Race","NP","Total",63
+"Election Total","SENATE DISTRICT T","NP","NP","Number of Precincts Reporting","NP","Total",63
+"Election Total","SENATE DISTRICT T","NP","NP","Registered Voters","NP","Total",20531
+"Election Total","SENATE DISTRICT T","NP","NP","Times Counted","NP","Total",10326
+"Election Total","SENATE DISTRICT T","NP","NP","Times Blank Voted","NP","Total",393
+"Election Total","SENATE DISTRICT T","NP","NP","Times Over Voted","NP","Total",2
+"Election Total","SENATE DISTRICT T","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","SENATE DISTRICT T","NP","NP","Minish, Allen","REP","Total",2415
+"Election Total","SENATE DISTRICT T","NP","NP","Olson, Donald C. \"Do","DEM","Total",7455
+"Election Total","SENATE DISTRICT T","NP","NP","Write-in 30","NP","Total",61
+"Election Total","HOUSE DISTRICT 1","NP","NP","Number of Precincts for Race","NP","Total",7
+"Election Total","HOUSE DISTRICT 1","NP","NP","Number of Precincts Reporting","NP","Total",7
+"Election Total","HOUSE DISTRICT 1","NP","NP","Registered Voters","NP","Total",14419
+"Election Total","HOUSE DISTRICT 1","NP","NP","Times Counted","NP","Total",7362
+"Election Total","HOUSE DISTRICT 1","NP","NP","Times Blank Voted","NP","Total",349
+"Election Total","HOUSE DISTRICT 1","NP","NP","Times Over Voted","NP","Total",3
+"Election Total","HOUSE DISTRICT 1","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 1","NP","NP","Isaacson, Doug","REP","Total",5428
+"Election Total","HOUSE DISTRICT 1","NP","NP","Golub, Janice L.","DEM","Total",1525
+"Election Total","HOUSE DISTRICT 1","NP","NP","Write-in 30","NP","Total",57
+"Election Total","HOUSE DISTRICT 2","NP","NP","Number of Precincts for Race","NP","Total",6
+"Election Total","HOUSE DISTRICT 2","NP","NP","Number of Precincts Reporting","NP","Total",6
+"Election Total","HOUSE DISTRICT 2","NP","NP","Registered Voters","NP","Total",13975
+"Election Total","HOUSE DISTRICT 2","NP","NP","Times Counted","NP","Total",8664
+"Election Total","HOUSE DISTRICT 2","NP","NP","Times Blank Voted","NP","Total",195
+"Election Total","HOUSE DISTRICT 2","NP","NP","Times Over Voted","NP","Total",4
+"Election Total","HOUSE DISTRICT 2","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 2","NP","NP","Miller, Bob","DEM","Total",4012
+"Election Total","HOUSE DISTRICT 2","NP","NP","Wilson, Tammie","REP","Total",4420
+"Election Total","HOUSE DISTRICT 2","NP","NP","Write-in 30","NP","Total",33
+"Election Total","HOUSE DISTRICT 3","NP","NP","Number of Precincts for Race","NP","Total",5
+"Election Total","HOUSE DISTRICT 3","NP","NP","Number of Precincts Reporting","NP","Total",5
+"Election Total","HOUSE DISTRICT 3","NP","NP","Registered Voters","NP","Total",12427
+"Election Total","HOUSE DISTRICT 3","NP","NP","Times Counted","NP","Total",5351
+"Election Total","HOUSE DISTRICT 3","NP","NP","Times Blank Voted","NP","Total",878
+"Election Total","HOUSE DISTRICT 3","NP","NP","Times Over Voted","NP","Total",1
+"Election Total","HOUSE DISTRICT 3","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 3","NP","NP","Thompson, Steve M. ","REP","Total",4306
+"Election Total","HOUSE DISTRICT 3","NP","NP","Write-in 20","NP","Total",166
+"Election Total","HOUSE DISTRICT 4","NP","NP","Number of Precincts for Race","NP","Total",10
+"Election Total","HOUSE DISTRICT 4","NP","NP","Number of Precincts Reporting","NP","Total",10
+"Election Total","HOUSE DISTRICT 4","NP","NP","Registered Voters","NP","Total",13072
+"Election Total","HOUSE DISTRICT 4","NP","NP","Times Counted","NP","Total",6318
+"Election Total","HOUSE DISTRICT 4","NP","NP","Times Blank Voted","NP","Total",140
+"Election Total","HOUSE DISTRICT 4","NP","NP","Times Over Voted","NP","Total",2
+"Election Total","HOUSE DISTRICT 4","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 4","NP","NP","Kawasaki, Scott J.","DEM","Total",3160
+"Election Total","HOUSE DISTRICT 4","NP","NP","Pruhs, David","REP","Total",2992
+"Election Total","HOUSE DISTRICT 4","NP","NP","Write-in 30","NP","Total",24
+"Election Total","HOUSE DISTRICT 5","NP","NP","Number of Precincts for Race","NP","Total",9
+"Election Total","HOUSE DISTRICT 5","NP","NP","Number of Precincts Reporting","NP","Total",9
+"Election Total","HOUSE DISTRICT 5","NP","NP","Registered Voters","NP","Total",13349
+"Election Total","HOUSE DISTRICT 5","NP","NP","Times Counted","NP","Total",7734
+"Election Total","HOUSE DISTRICT 5","NP","NP","Times Blank Voted","NP","Total",340
+"Election Total","HOUSE DISTRICT 5","NP","NP","Times Over Voted","NP","Total",2
+"Election Total","HOUSE DISTRICT 5","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 5","NP","NP","Higgins, Pete","REP","Total",3950
+"Election Total","HOUSE DISTRICT 5","NP","NP","Watts, David","DEM","Total",3410
+"Election Total","HOUSE DISTRICT 5","NP","NP","Write-in 30","NP","Total",32
+"Election Total","HOUSE DISTRICT 6","NP","NP","Number of Precincts for Race","NP","Total",10
+"Election Total","HOUSE DISTRICT 6","NP","NP","Number of Precincts Reporting","NP","Total",10
+"Election Total","HOUSE DISTRICT 6","NP","NP","Registered Voters","NP","Total",12443
+"Election Total","HOUSE DISTRICT 6","NP","NP","Times Counted","NP","Total",7092
+"Election Total","HOUSE DISTRICT 6","NP","NP","Times Blank Voted","NP","Total",291
+"Election Total","HOUSE DISTRICT 6","NP","NP","Times Over Voted","NP","Total",3
+"Election Total","HOUSE DISTRICT 6","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 6","NP","NP","Duhamel, Jamey E.","DEM","Total",1878
+"Election Total","HOUSE DISTRICT 6","NP","NP","Feige, Eric A.","REP","Total",4879
+"Election Total","HOUSE DISTRICT 6","NP","NP","Write-in 30","NP","Total",41
+"Election Total","HOUSE DISTRICT 7","NP","NP","Number of Precincts for Race","NP","Total",9
+"Election Total","HOUSE DISTRICT 7","NP","NP","Number of Precincts Reporting","NP","Total",9
+"Election Total","HOUSE DISTRICT 7","NP","NP","Registered Voters","NP","Total",12648
+"Election Total","HOUSE DISTRICT 7","NP","NP","Times Counted","NP","Total",7090
+"Election Total","HOUSE DISTRICT 7","NP","NP","Times Blank Voted","NP","Total",1308
+"Election Total","HOUSE DISTRICT 7","NP","NP","Times Over Voted","NP","Total",0
+"Election Total","HOUSE DISTRICT 7","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 7","NP","NP","Keller, Wes","REP","Total",5517
+"Election Total","HOUSE DISTRICT 7","NP","NP","Write-in 20","NP","Total",265
+"Election Total","HOUSE DISTRICT 8","NP","NP","Number of Precincts for Race","NP","Total",9
+"Election Total","HOUSE DISTRICT 8","NP","NP","Number of Precincts Reporting","NP","Total",9
+"Election Total","HOUSE DISTRICT 8","NP","NP","Registered Voters","NP","Total",12894
+"Election Total","HOUSE DISTRICT 8","NP","NP","Times Counted","NP","Total",7617
+"Election Total","HOUSE DISTRICT 8","NP","NP","Times Blank Voted","NP","Total",1152
+"Election Total","HOUSE DISTRICT 8","NP","NP","Times Over Voted","NP","Total",0
+"Election Total","HOUSE DISTRICT 8","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 8","NP","NP","Hughes, Shelley","REP","Total",6183
+"Election Total","HOUSE DISTRICT 8","NP","NP","Write-in 20","NP","Total",282
+"Election Total","HOUSE DISTRICT 9","NP","NP","Number of Precincts for Race","NP","Total",6
+"Election Total","HOUSE DISTRICT 9","NP","NP","Number of Precincts Reporting","NP","Total",6
+"Election Total","HOUSE DISTRICT 9","NP","NP","Registered Voters","NP","Total",12507
+"Election Total","HOUSE DISTRICT 9","NP","NP","Times Counted","NP","Total",6821
+"Election Total","HOUSE DISTRICT 9","NP","NP","Times Blank Voted","NP","Total",269
+"Election Total","HOUSE DISTRICT 9","NP","NP","Times Over Voted","NP","Total",0
+"Election Total","HOUSE DISTRICT 9","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 9","NP","NP","Merrifield, Blake A.","DEM","Total",1767
+"Election Total","HOUSE DISTRICT 9","NP","NP","Gattis, Lynn","REP","Total",4759
+"Election Total","HOUSE DISTRICT 9","NP","NP","Write-in 30","NP","Total",26
+"Election Total","HOUSE DISTRICT 10","NP","NP","Number of Precincts for Race","NP","Total",6
+"Election Total","HOUSE DISTRICT 10","NP","NP","Number of Precincts Reporting","NP","Total",6
+"Election Total","HOUSE DISTRICT 10","NP","NP","Registered Voters","NP","Total",11229
+"Election Total","HOUSE DISTRICT 10","NP","NP","Times Counted","NP","Total",6158
+"Election Total","HOUSE DISTRICT 10","NP","NP","Times Blank Voted","NP","Total",210
+"Election Total","HOUSE DISTRICT 10","NP","NP","Times Over Voted","NP","Total",1
+"Election Total","HOUSE DISTRICT 10","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 10","NP","NP","Neuman, Mark A.","REP","Total",4755
+"Election Total","HOUSE DISTRICT 10","NP","NP","Rahn, Pam","DEM","Total",1179
+"Election Total","HOUSE DISTRICT 10","NP","NP","Write-in 30","NP","Total",13
+"Election Total","HOUSE DISTRICT 11","NP","NP","Number of Precincts for Race","NP","Total",7
+"Election Total","HOUSE DISTRICT 11","NP","NP","Number of Precincts Reporting","NP","Total",7
+"Election Total","HOUSE DISTRICT 11","NP","NP","Registered Voters","NP","Total",12941
+"Election Total","HOUSE DISTRICT 11","NP","NP","Times Counted","NP","Total",8192
+"Election Total","HOUSE DISTRICT 11","NP","NP","Times Blank Voted","NP","Total",1178
+"Election Total","HOUSE DISTRICT 11","NP","NP","Times Over Voted","NP","Total",0
+"Election Total","HOUSE DISTRICT 11","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 11","NP","NP","Stoltze, Bill","REP","Total",6754
+"Election Total","HOUSE DISTRICT 11","NP","NP","Write-in 20","NP","Total",260
+"Election Total","HOUSE DISTRICT 12","NP","NP","Number of Precincts for Race","NP","Total",5
+"Election Total","HOUSE DISTRICT 12","NP","NP","Number of Precincts Reporting","NP","Total",5
+"Election Total","HOUSE DISTRICT 12","NP","NP","Registered Voters","NP","Total",11847
+"Election Total","HOUSE DISTRICT 12","NP","NP","Times Counted","NP","Total",5744
+"Election Total","HOUSE DISTRICT 12","NP","NP","Times Blank Voted","NP","Total",914
+"Election Total","HOUSE DISTRICT 12","NP","NP","Times Over Voted","NP","Total",1
+"Election Total","HOUSE DISTRICT 12","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 12","NP","NP","Saddler, Dan","REP","Total",4663
+"Election Total","HOUSE DISTRICT 12","NP","NP","Write-in 20","NP","Total",166
+"Election Total","HOUSE DISTRICT 13","NP","NP","Number of Precincts for Race","NP","Total",5
+"Election Total","HOUSE DISTRICT 13","NP","NP","Number of Precincts Reporting","NP","Total",5
+"Election Total","HOUSE DISTRICT 13","NP","NP","Registered Voters","NP","Total",11990
+"Election Total","HOUSE DISTRICT 13","NP","NP","Times Counted","NP","Total",5122
+"Election Total","HOUSE DISTRICT 13","NP","NP","Times Blank Voted","NP","Total",251
+"Election Total","HOUSE DISTRICT 13","NP","NP","Times Over Voted","NP","Total",1
+"Election Total","HOUSE DISTRICT 13","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 13","NP","NP","LeDoux, Gabrielle","REP","Total",3278
+"Election Total","HOUSE DISTRICT 13","NP","NP","Rollison, Kay L.","DEM","Total",1480
+"Election Total","HOUSE DISTRICT 13","NP","NP","Write-in 30","NP","Total",112
+"Election Total","HOUSE DISTRICT 14","NP","NP","Number of Precincts for Race","NP","Total",7
+"Election Total","HOUSE DISTRICT 14","NP","NP","Number of Precincts Reporting","NP","Total",7
+"Election Total","HOUSE DISTRICT 14","NP","NP","Registered Voters","NP","Total",12355
+"Election Total","HOUSE DISTRICT 14","NP","NP","Times Counted","NP","Total",6631
+"Election Total","HOUSE DISTRICT 14","NP","NP","Times Blank Voted","NP","Total",332
+"Election Total","HOUSE DISTRICT 14","NP","NP","Times Over Voted","NP","Total",2
+"Election Total","HOUSE DISTRICT 14","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 14","NP","NP","Hadley, Don","REP","Total",2883
+"Election Total","HOUSE DISTRICT 14","NP","NP","Gruenberg, Max F. Jr","DEM","Total",3391
+"Election Total","HOUSE DISTRICT 14","NP","NP","Write-in 30","NP","Total",23
+"Election Total","HOUSE DISTRICT 15","NP","NP","Number of Precincts for Race","NP","Total",7
+"Election Total","HOUSE DISTRICT 15","NP","NP","Number of Precincts Reporting","NP","Total",7
+"Election Total","HOUSE DISTRICT 15","NP","NP","Registered Voters","NP","Total",11634
+"Election Total","HOUSE DISTRICT 15","NP","NP","Times Counted","NP","Total",5731
+"Election Total","HOUSE DISTRICT 15","NP","NP","Times Blank Voted","NP","Total",287
+"Election Total","HOUSE DISTRICT 15","NP","NP","Times Over Voted","NP","Total",1
+"Election Total","HOUSE DISTRICT 15","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 15","NP","NP","Josephson, Andrew L.","DEM","Total",3142
+"Election Total","HOUSE DISTRICT 15","NP","NP","Traini, Dick","REP","Total",2276
+"Election Total","HOUSE DISTRICT 15","NP","NP","Write-in 30","NP","Total",25
+"Election Total","HOUSE DISTRICT 16","NP","NP","Number of Precincts for Race","NP","Total",10
+"Election Total","HOUSE DISTRICT 16","NP","NP","Number of Precincts Reporting","NP","Total",10
+"Election Total","HOUSE DISTRICT 16","NP","NP","Registered Voters","NP","Total",12557
+"Election Total","HOUSE DISTRICT 16","NP","NP","Times Counted","NP","Total",6360
+"Election Total","HOUSE DISTRICT 16","NP","NP","Times Blank Voted","NP","Total",277
+"Election Total","HOUSE DISTRICT 16","NP","NP","Times Over Voted","NP","Total",0
+"Election Total","HOUSE DISTRICT 16","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 16","NP","NP","Drummond, Harriet A.","DEM","Total",3434
+"Election Total","HOUSE DISTRICT 16","NP","NP","Isley, Phil","NA","Total",343
+"Election Total","HOUSE DISTRICT 16","NP","NP","Crawford, Jimmy","REP","Total",2278
+"Election Total","HOUSE DISTRICT 16","NP","NP","Write-in 40","NP","Total",28
+"Election Total","HOUSE DISTRICT 17","NP","NP","Number of Precincts for Race","NP","Total",6
+"Election Total","HOUSE DISTRICT 17","NP","NP","Number of Precincts Reporting","NP","Total",6
+"Election Total","HOUSE DISTRICT 17","NP","NP","Registered Voters","NP","Total",9698
+"Election Total","HOUSE DISTRICT 17","NP","NP","Times Counted","NP","Total",4195
+"Election Total","HOUSE DISTRICT 17","NP","NP","Times Blank Voted","NP","Total",187
+"Election Total","HOUSE DISTRICT 17","NP","NP","Times Over Voted","NP","Total",2
+"Election Total","HOUSE DISTRICT 17","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 17","NP","NP","Stevens, Cean","REP","Total",1568
+"Election Total","HOUSE DISTRICT 17","NP","NP","Tarr, Geran","DEM","Total",2416
+"Election Total","HOUSE DISTRICT 17","NP","NP","Write-in 30","NP","Total",22
+"Election Total","HOUSE DISTRICT 18","NP","NP","Number of Precincts for Race","NP","Total",9
+"Election Total","HOUSE DISTRICT 18","NP","NP","Number of Precincts Reporting","NP","Total",9
+"Election Total","HOUSE DISTRICT 18","NP","NP","Registered Voters","NP","Total",12632
+"Election Total","HOUSE DISTRICT 18","NP","NP","Times Counted","NP","Total",6315
+"Election Total","HOUSE DISTRICT 18","NP","NP","Times Blank Voted","NP","Total",277
+"Election Total","HOUSE DISTRICT 18","NP","NP","Times Over Voted","NP","Total",1
+"Election Total","HOUSE DISTRICT 18","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 18","NP","NP","Eichenlaub, Cris A. ","REP","Total",1654
+"Election Total","HOUSE DISTRICT 18","NP","NP","Gara, Les S.","DEM","Total",4356
+"Election Total","HOUSE DISTRICT 18","NP","NP","Write-in 30","NP","Total",27
+"Election Total","HOUSE DISTRICT 19","NP","NP","Number of Precincts for Race","NP","Total",8
+"Election Total","HOUSE DISTRICT 19","NP","NP","Number of Precincts Reporting","NP","Total",8
+"Election Total","HOUSE DISTRICT 19","NP","NP","Registered Voters","NP","Total",13051
+"Election Total","HOUSE DISTRICT 19","NP","NP","Times Counted","NP","Total",8080
+"Election Total","HOUSE DISTRICT 19","NP","NP","Times Blank Voted","NP","Total",444
+"Election Total","HOUSE DISTRICT 19","NP","NP","Times Over Voted","NP","Total",3
+"Election Total","HOUSE DISTRICT 19","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 19","NP","NP","Dubey, Anand","REP","Total",3419
+"Election Total","HOUSE DISTRICT 19","NP","NP","Holmes, Lindsey","DEM","Total",4199
+"Election Total","HOUSE DISTRICT 19","NP","NP","Write-in 30","NP","Total",15
+"Election Total","HOUSE DISTRICT 20","NP","NP","Number of Precincts for Race","NP","Total",7
+"Election Total","HOUSE DISTRICT 20","NP","NP","Number of Precincts Reporting","NP","Total",7
+"Election Total","HOUSE DISTRICT 20","NP","NP","Registered Voters","NP","Total",12606
+"Election Total","HOUSE DISTRICT 20","NP","NP","Times Counted","NP","Total",7541
+"Election Total","HOUSE DISTRICT 20","NP","NP","Times Blank Voted","NP","Total",267
+"Election Total","HOUSE DISTRICT 20","NP","NP","Times Over Voted","NP","Total",0
+"Election Total","HOUSE DISTRICT 20","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 20","NP","NP","Scannell, Michelle","DEM","Total",2117
+"Election Total","HOUSE DISTRICT 20","NP","NP","Costello, Mia","REP","Total",5134
+"Election Total","HOUSE DISTRICT 20","NP","NP","Write-in 30","NP","Total",23
+"Election Total","HOUSE DISTRICT 21","NP","NP","Number of Precincts for Race","NP","Total",7
+"Election Total","HOUSE DISTRICT 21","NP","NP","Number of Precincts Reporting","NP","Total",7
+"Election Total","HOUSE DISTRICT 21","NP","NP","Registered Voters","NP","Total",13391
+"Election Total","HOUSE DISTRICT 21","NP","NP","Times Counted","NP","Total",8484
+"Election Total","HOUSE DISTRICT 21","NP","NP","Times Blank Voted","NP","Total",318
+"Election Total","HOUSE DISTRICT 21","NP","NP","Times Over Voted","NP","Total",3
+"Election Total","HOUSE DISTRICT 21","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 21","NP","NP","Dominguez, Jodie S.","DEM","Total",2988
+"Election Total","HOUSE DISTRICT 21","NP","NP","Johnson, Craig W.","REP","Total",5156
+"Election Total","HOUSE DISTRICT 21","NP","NP","Write-in 30","NP","Total",19
+"Election Total","HOUSE DISTRICT 22","NP","NP","Number of Precincts for Race","NP","Total",8
+"Election Total","HOUSE DISTRICT 22","NP","NP","Number of Precincts Reporting","NP","Total",8
+"Election Total","HOUSE DISTRICT 22","NP","NP","Registered Voters","NP","Total",11645
+"Election Total","HOUSE DISTRICT 22","NP","NP","Times Counted","NP","Total",6088
+"Election Total","HOUSE DISTRICT 22","NP","NP","Times Blank Voted","NP","Total",193
+"Election Total","HOUSE DISTRICT 22","NP","NP","Times Over Voted","NP","Total",3
+"Election Total","HOUSE DISTRICT 22","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 22","NP","NP","Vaught, Lisa M.","REP","Total",2708
+"Election Total","HOUSE DISTRICT 22","NP","NP","Tuck, Chris","DEM","Total",3169
+"Election Total","HOUSE DISTRICT 22","NP","NP","Write-in 30","NP","Total",15
+"Election Total","HOUSE DISTRICT 23","NP","NP","Number of Precincts for Race","NP","Total",8
+"Election Total","HOUSE DISTRICT 23","NP","NP","Number of Precincts Reporting","NP","Total",8
+"Election Total","HOUSE DISTRICT 23","NP","NP","Registered Voters","NP","Total",12973
+"Election Total","HOUSE DISTRICT 23","NP","NP","Times Counted","NP","Total",7860
+"Election Total","HOUSE DISTRICT 23","NP","NP","Times Blank Voted","NP","Total",300
+"Election Total","HOUSE DISTRICT 23","NP","NP","Times Over Voted","NP","Total",0
+"Election Total","HOUSE DISTRICT 23","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 23","NP","NP","Lynn, Bob","REP","Total",4737
+"Election Total","HOUSE DISTRICT 23","NP","NP","Marroquin, Lupe","DEM","Total",2804
+"Election Total","HOUSE DISTRICT 23","NP","NP","Write-in 30","NP","Total",19
+"Election Total","HOUSE DISTRICT 24","NP","NP","Number of Precincts for Race","NP","Total",7
+"Election Total","HOUSE DISTRICT 24","NP","NP","Number of Precincts Reporting","NP","Total",7
+"Election Total","HOUSE DISTRICT 24","NP","NP","Registered Voters","NP","Total",12124
+"Election Total","HOUSE DISTRICT 24","NP","NP","Times Counted","NP","Total",6855
+"Election Total","HOUSE DISTRICT 24","NP","NP","Times Blank Voted","NP","Total",230
+"Election Total","HOUSE DISTRICT 24","NP","NP","Times Over Voted","NP","Total",1
+"Election Total","HOUSE DISTRICT 24","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 24","NP","NP","Millett, Charisse E.","REP","Total",3667
+"Election Total","HOUSE DISTRICT 24","NP","NP","Higgins, Patti","DEM","Total",2944
+"Election Total","HOUSE DISTRICT 24","NP","NP","Write-in 30","NP","Total",13
+"Election Total","HOUSE DISTRICT 25","NP","NP","Number of Precincts for Race","NP","Total",8
+"Election Total","HOUSE DISTRICT 25","NP","NP","Number of Precincts Reporting","NP","Total",8
+"Election Total","HOUSE DISTRICT 25","NP","NP","Registered Voters","NP","Total",13632
+"Election Total","HOUSE DISTRICT 25","NP","NP","Times Counted","NP","Total",8226
+"Election Total","HOUSE DISTRICT 25","NP","NP","Times Blank Voted","NP","Total",186
+"Election Total","HOUSE DISTRICT 25","NP","NP","Times Over Voted","NP","Total",3
+"Election Total","HOUSE DISTRICT 25","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 25","NP","NP","Petersen, Pete","DEM","Total",3896
+"Election Total","HOUSE DISTRICT 25","NP","NP","Pruitt, Lance D.","REP","Total",4119
+"Election Total","HOUSE DISTRICT 25","NP","NP","Write-in 30","NP","Total",22
+"Election Total","HOUSE DISTRICT 26","NP","NP","Number of Precincts for Race","NP","Total",7
+"Election Total","HOUSE DISTRICT 26","NP","NP","Number of Precincts Reporting","NP","Total",7
+"Election Total","HOUSE DISTRICT 26","NP","NP","Registered Voters","NP","Total",15548
+"Election Total","HOUSE DISTRICT 26","NP","NP","Times Counted","NP","Total",10081
+"Election Total","HOUSE DISTRICT 26","NP","NP","Times Blank Voted","NP","Total",562
+"Election Total","HOUSE DISTRICT 26","NP","NP","Times Over Voted","NP","Total",1
+"Election Total","HOUSE DISTRICT 26","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 26","NP","NP","Goughnour, Roberta C","DEM","Total",2535
+"Election Total","HOUSE DISTRICT 26","NP","NP","Reinbold, Lora","REP","Total",6903
+"Election Total","HOUSE DISTRICT 26","NP","NP","Write-in 30","NP","Total",80
+"Election Total","HOUSE DISTRICT 27","NP","NP","Number of Precincts for Race","NP","Total",9
+"Election Total","HOUSE DISTRICT 27","NP","NP","Number of Precincts Reporting","NP","Total",9
+"Election Total","HOUSE DISTRICT 27","NP","NP","Registered Voters","NP","Total",15154
+"Election Total","HOUSE DISTRICT 27","NP","NP","Times Counted","NP","Total",10503
+"Election Total","HOUSE DISTRICT 27","NP","NP","Times Blank Voted","NP","Total",2282
+"Election Total","HOUSE DISTRICT 27","NP","NP","Times Over Voted","NP","Total",0
+"Election Total","HOUSE DISTRICT 27","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 27","NP","NP","Hawker, Mike","REP","Total",7807
+"Election Total","HOUSE DISTRICT 27","NP","NP","Write-in 20","NP","Total",414
+"Election Total","HOUSE DISTRICT 28","NP","NP","Number of Precincts for Race","NP","Total",10
+"Election Total","HOUSE DISTRICT 28","NP","NP","Number of Precincts Reporting","NP","Total",10
+"Election Total","HOUSE DISTRICT 28","NP","NP","Registered Voters","NP","Total",13359
+"Election Total","HOUSE DISTRICT 28","NP","NP","Times Counted","NP","Total",8014
+"Election Total","HOUSE DISTRICT 28","NP","NP","Times Blank Voted","NP","Total",1449
+"Election Total","HOUSE DISTRICT 28","NP","NP","Times Over Voted","NP","Total",2
+"Election Total","HOUSE DISTRICT 28","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 28","NP","NP","Chenault, Charles M.","REP","Total",6274
+"Election Total","HOUSE DISTRICT 28","NP","NP","Write-in 20","NP","Total",289
+"Election Total","HOUSE DISTRICT 29","NP","NP","Number of Precincts for Race","NP","Total",6
+"Election Total","HOUSE DISTRICT 29","NP","NP","Number of Precincts Reporting","NP","Total",6
+"Election Total","HOUSE DISTRICT 29","NP","NP","Registered Voters","NP","Total",13419
+"Election Total","HOUSE DISTRICT 29","NP","NP","Times Counted","NP","Total",7616
+"Election Total","HOUSE DISTRICT 29","NP","NP","Times Blank Voted","NP","Total",1137
+"Election Total","HOUSE DISTRICT 29","NP","NP","Times Over Voted","NP","Total",2
+"Election Total","HOUSE DISTRICT 29","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 29","NP","NP","Olson, Kurt E.","REP","Total",6260
+"Election Total","HOUSE DISTRICT 29","NP","NP","Write-in 20","NP","Total",217
+"Election Total","HOUSE DISTRICT 30","NP","NP","Number of Precincts for Race","NP","Total",11
+"Election Total","HOUSE DISTRICT 30","NP","NP","Number of Precincts Reporting","NP","Total",11
+"Election Total","HOUSE DISTRICT 30","NP","NP","Registered Voters","NP","Total",15025
+"Election Total","HOUSE DISTRICT 30","NP","NP","Times Counted","NP","Total",9222
+"Election Total","HOUSE DISTRICT 30","NP","NP","Times Blank Voted","NP","Total",454
+"Election Total","HOUSE DISTRICT 30","NP","NP","Times Over Voted","NP","Total",6
+"Election Total","HOUSE DISTRICT 30","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 30","NP","NP","Diament, Elizabeth R","DEM","Total",2413
+"Election Total","HOUSE DISTRICT 30","NP","NP","Seaton, Paul","REP","Total",6287
+"Election Total","HOUSE DISTRICT 30","NP","NP","Write-in 30","NP","Total",62
+"Election Total","HOUSE DISTRICT 31","NP","NP","Number of Precincts for Race","NP","Total",7
+"Election Total","HOUSE DISTRICT 31","NP","NP","Number of Precincts Reporting","NP","Total",7
+"Election Total","HOUSE DISTRICT 31","NP","NP","Registered Voters","NP","Total",14356
+"Election Total","HOUSE DISTRICT 31","NP","NP","Times Counted","NP","Total",8847
+"Election Total","HOUSE DISTRICT 31","NP","NP","Times Blank Voted","NP","Total",1357
+"Election Total","HOUSE DISTRICT 31","NP","NP","Times Over Voted","NP","Total",1
+"Election Total","HOUSE DISTRICT 31","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 31","NP","NP","Mu�oz, Cathy","REP","Total",7243
+"Election Total","HOUSE DISTRICT 31","NP","NP","Write-in 20","NP","Total",246
+"Election Total","HOUSE DISTRICT 32","NP","NP","Number of Precincts for Race","NP","Total",10
+"Election Total","HOUSE DISTRICT 32","NP","NP","Number of Precincts Reporting","NP","Total",10
+"Election Total","HOUSE DISTRICT 32","NP","NP","Registered Voters","NP","Total",14978
+"Election Total","HOUSE DISTRICT 32","NP","NP","Times Counted","NP","Total",9167
+"Election Total","HOUSE DISTRICT 32","NP","NP","Times Blank Voted","NP","Total",1734
+"Election Total","HOUSE DISTRICT 32","NP","NP","Times Over Voted","NP","Total",2
+"Election Total","HOUSE DISTRICT 32","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 32","NP","NP","Kerttula, Beth","DEM","Total",7112
+"Election Total","HOUSE DISTRICT 32","NP","NP","Write-in 20","NP","Total",319
+"Election Total","HOUSE DISTRICT 33","NP","NP","Number of Precincts for Race","NP","Total",10
+"Election Total","HOUSE DISTRICT 33","NP","NP","Number of Precincts Reporting","NP","Total",10
+"Election Total","HOUSE DISTRICT 33","NP","NP","Registered Voters","NP","Total",12937
+"Election Total","HOUSE DISTRICT 33","NP","NP","Times Counted","NP","Total",7279
+"Election Total","HOUSE DISTRICT 33","NP","NP","Times Blank Voted","NP","Total",153
+"Election Total","HOUSE DISTRICT 33","NP","NP","Times Over Voted","NP","Total",2
+"Election Total","HOUSE DISTRICT 33","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 33","NP","NP","Olsen, Matt","DEM","Total",2332
+"Election Total","HOUSE DISTRICT 33","NP","NP","Johansen, Kyle B.","NA","Total",641
+"Election Total","HOUSE DISTRICT 33","NP","NP","Wilson, Peggy","REP","Total",4131
+"Election Total","HOUSE DISTRICT 33","NP","NP","Write-in 40","NP","Total",20
+"Election Total","HOUSE DISTRICT 34","NP","NP","Number of Precincts for Race","NP","Total",15
+"Election Total","HOUSE DISTRICT 34","NP","NP","Number of Precincts Reporting","NP","Total",15
+"Election Total","HOUSE DISTRICT 34","NP","NP","Registered Voters","NP","Total",13964
+"Election Total","HOUSE DISTRICT 34","NP","NP","Times Counted","NP","Total",8401
+"Election Total","HOUSE DISTRICT 34","NP","NP","Times Blank Voted","NP","Total",169
+"Election Total","HOUSE DISTRICT 34","NP","NP","Times Over Voted","NP","Total",0
+"Election Total","HOUSE DISTRICT 34","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 34","NP","NP","Kreiss-Tomkins, Jona","DEM","Total",4125
+"Election Total","HOUSE DISTRICT 34","NP","NP","Thomas, William A. \"","REP","Total",4091
+"Election Total","HOUSE DISTRICT 34","NP","NP","Write-in 30","NP","Total",16
+"Election Total","HOUSE DISTRICT 35","NP","NP","Number of Precincts for Race","NP","Total",13
+"Election Total","HOUSE DISTRICT 35","NP","NP","Number of Precincts Reporting","NP","Total",13
+"Election Total","HOUSE DISTRICT 35","NP","NP","Registered Voters","NP","Total",12426
+"Election Total","HOUSE DISTRICT 35","NP","NP","Times Counted","NP","Total",6681
+"Election Total","HOUSE DISTRICT 35","NP","NP","Times Blank Voted","NP","Total",1279
+"Election Total","HOUSE DISTRICT 35","NP","NP","Times Over Voted","NP","Total",1
+"Election Total","HOUSE DISTRICT 35","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 35","NP","NP","Austerman, Alan","REP","Total",5226
+"Election Total","HOUSE DISTRICT 35","NP","NP","Write-in 20","NP","Total",175
+"Election Total","HOUSE DISTRICT 36","NP","NP","Number of Precincts for Race","NP","Total",43
+"Election Total","HOUSE DISTRICT 36","NP","NP","Number of Precincts Reporting","NP","Total",43
+"Election Total","HOUSE DISTRICT 36","NP","NP","Registered Voters","NP","Total",9898
+"Election Total","HOUSE DISTRICT 36","NP","NP","Times Counted","NP","Total",4773
+"Election Total","HOUSE DISTRICT 36","NP","NP","Times Blank Voted","NP","Total",152
+"Election Total","HOUSE DISTRICT 36","NP","NP","Times Over Voted","NP","Total",0
+"Election Total","HOUSE DISTRICT 36","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 36","NP","NP","Morgan, Carl M. Jr.","REP","Total",2071
+"Election Total","HOUSE DISTRICT 36","NP","NP","Edgmon, Bryce","DEM","Total",2536
+"Election Total","HOUSE DISTRICT 36","NP","NP","Write-in 30","NP","Total",14
+"Election Total","HOUSE DISTRICT 37","NP","NP","Number of Precincts for Race","NP","Total",19
+"Election Total","HOUSE DISTRICT 37","NP","NP","Number of Precincts Reporting","NP","Total",19
+"Election Total","HOUSE DISTRICT 37","NP","NP","Registered Voters","NP","Total",9516
+"Election Total","HOUSE DISTRICT 37","NP","NP","Times Counted","NP","Total",4042
+"Election Total","HOUSE DISTRICT 37","NP","NP","Times Blank Voted","NP","Total",606
+"Election Total","HOUSE DISTRICT 37","NP","NP","Times Over Voted","NP","Total",0
+"Election Total","HOUSE DISTRICT 37","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 37","NP","NP","Herron, Bob","DEM","Total",3291
+"Election Total","HOUSE DISTRICT 37","NP","NP","Write-in 20","NP","Total",145
+"Election Total","HOUSE DISTRICT 38","NP","NP","Number of Precincts for Race","NP","Total",29
+"Election Total","HOUSE DISTRICT 38","NP","NP","Number of Precincts Reporting","NP","Total",29
+"Election Total","HOUSE DISTRICT 38","NP","NP","Registered Voters","NP","Total",11282
+"Election Total","HOUSE DISTRICT 38","NP","NP","Times Counted","NP","Total",6506
+"Election Total","HOUSE DISTRICT 38","NP","NP","Times Blank Voted","NP","Total",149
+"Election Total","HOUSE DISTRICT 38","NP","NP","Times Over Voted","NP","Total",2
+"Election Total","HOUSE DISTRICT 38","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 38","NP","NP","Dick, Alan S.","REP","Total",2583
+"Election Total","HOUSE DISTRICT 38","NP","NP","Shockley, Dorothy J.","NA","Total",857
+"Election Total","HOUSE DISTRICT 38","NP","NP","Guttenberg, David","DEM","Total",2894
+"Election Total","HOUSE DISTRICT 38","NP","NP","Write-in 40","NP","Total",21
+"Election Total","HOUSE DISTRICT 39","NP","NP","Number of Precincts for Race","NP","Total",43
+"Election Total","HOUSE DISTRICT 39","NP","NP","Number of Precincts Reporting","NP","Total",43
+"Election Total","HOUSE DISTRICT 39","NP","NP","Registered Voters","NP","Total",11763
+"Election Total","HOUSE DISTRICT 39","NP","NP","Times Counted","NP","Total",6351
+"Election Total","HOUSE DISTRICT 39","NP","NP","Times Blank Voted","NP","Total",1296
+"Election Total","HOUSE DISTRICT 39","NP","NP","Times Over Voted","NP","Total",0
+"Election Total","HOUSE DISTRICT 39","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 39","NP","NP","Foster, Neal W.","DEM","Total",4854
+"Election Total","HOUSE DISTRICT 39","NP","NP","Write-in 20","NP","Total",201
+"Election Total","HOUSE DISTRICT 40","NP","NP","Number of Precincts for Race","NP","Total",20
+"Election Total","HOUSE DISTRICT 40","NP","NP","Number of Precincts Reporting","NP","Total",20
+"Election Total","HOUSE DISTRICT 40","NP","NP","Registered Voters","NP","Total",8768
+"Election Total","HOUSE DISTRICT 40","NP","NP","Times Counted","NP","Total",3960
+"Election Total","HOUSE DISTRICT 40","NP","NP","Times Blank Voted","NP","Total",369
+"Election Total","HOUSE DISTRICT 40","NP","NP","Times Over Voted","NP","Total",0
+"Election Total","HOUSE DISTRICT 40","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","HOUSE DISTRICT 40","NP","NP","Nageak, Benjamin P. ","DEM","Total",3444
+"Election Total","HOUSE DISTRICT 40","NP","NP","Write-in 20","NP","Total",147
+"Election Total","Bonding Prop A - Trans Projects","NP","NP","Number of Precincts for Race","NP","Total",438
+"Election Total","Bonding Prop A - Trans Projects","NP","NP","Number of Precincts Reporting","NP","Total",438
+"Election Total","Bonding Prop A - Trans Projects","NP","NP","Registered Voters","NP","Total",506432
+"Election Total","Bonding Prop A - Trans Projects","NP","NP","Times Counted","NP","Total",296959
+"Election Total","Bonding Prop A - Trans Projects","NP","NP","Times Blank Voted","NP","Total",21692
+"Election Total","Bonding Prop A - Trans Projects","NP","NP","Times Over Voted","NP","Total",69
+"Election Total","Bonding Prop A - Trans Projects","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Bonding Prop A - Trans Projects","NP","NP","YES","NP","Total",159976
+"Election Total","Bonding Prop A - Trans Projects","NP","NP","NO","NP","Total",115222
+"Election Total","Ballot Measure #1 - Const. Conv.","NP","NP","Number of Precincts for Race","NP","Total",438
+"Election Total","Ballot Measure #1 - Const. Conv.","NP","NP","Number of Precincts Reporting","NP","Total",438
+"Election Total","Ballot Measure #1 - Const. Conv.","NP","NP","Registered Voters","NP","Total",506432
+"Election Total","Ballot Measure #1 - Const. Conv.","NP","NP","Times Counted","NP","Total",296959
+"Election Total","Ballot Measure #1 - Const. Conv.","NP","NP","Times Blank Voted","NP","Total",27209
+"Election Total","Ballot Measure #1 - Const. Conv.","NP","NP","Times Over Voted","NP","Total",104
+"Election Total","Ballot Measure #1 - Const. Conv.","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Ballot Measure #1 - Const. Conv.","NP","NP","YES","NP","Total",90079
+"Election Total","Ballot Measure #1 - Const. Conv.","NP","NP","NO","NP","Total",179567
+"Election Total","Supreme Court - Justice Winfree","NP","NP","Number of Precincts for Race","NP","Total",438
+"Election Total","Supreme Court - Justice Winfree","NP","NP","Number of Precincts Reporting","NP","Total",438
+"Election Total","Supreme Court - Justice Winfree","NP","NP","Registered Voters","NP","Total",506432
+"Election Total","Supreme Court - Justice Winfree","NP","NP","Times Counted","NP","Total",296959
+"Election Total","Supreme Court - Justice Winfree","NP","NP","Times Blank Voted","NP","Total",41580
+"Election Total","Supreme Court - Justice Winfree","NP","NP","Times Over Voted","NP","Total",49
+"Election Total","Supreme Court - Justice Winfree","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Supreme Court - Justice Winfree","NP","NP","YES","NP","Total",165777
+"Election Total","Supreme Court - Justice Winfree","NP","NP","NO","NP","Total",89553
+"Election Total","Court of Appeals - Judge Bolger","NP","NP","Number of Precincts for Race","NP","Total",438
+"Election Total","Court of Appeals - Judge Bolger","NP","NP","Number of Precincts Reporting","NP","Total",438
+"Election Total","Court of Appeals - Judge Bolger","NP","NP","Registered Voters","NP","Total",506432
+"Election Total","Court of Appeals - Judge Bolger","NP","NP","Times Counted","NP","Total",296959
+"Election Total","Court of Appeals - Judge Bolger","NP","NP","Times Blank Voted","NP","Total",42146
+"Election Total","Court of Appeals - Judge Bolger","NP","NP","Times Over Voted","NP","Total",42
+"Election Total","Court of Appeals - Judge Bolger","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Court of Appeals - Judge Bolger","NP","NP","YES","NP","Total",166208
+"Election Total","Court of Appeals - Judge Bolger","NP","NP","NO","NP","Total",88563
+"Election Total","Sup Court JD1 Carey","NP","NP","Number of Precincts for Race","NP","Total",43
+"Election Total","Sup Court JD1 Carey","NP","NP","Number of Precincts Reporting","NP","Total",43
+"Election Total","Sup Court JD1 Carey","NP","NP","Registered Voters","NP","Total",56679
+"Election Total","Sup Court JD1 Carey","NP","NP","Times Counted","NP","Total",34674
+"Election Total","Sup Court JD1 Carey","NP","NP","Times Blank Voted","NP","Total",6327
+"Election Total","Sup Court JD1 Carey","NP","NP","Times Over Voted","NP","Total",0
+"Election Total","Sup Court JD1 Carey","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Sup Court JD1 Carey","NP","NP","YES","NP","Total",21148
+"Election Total","Sup Court JD1 Carey","NP","NP","NO","NP","Total",7199
+"Election Total","Sup Court JD2 Jeffery","NP","NP","Number of Precincts for Race","NP","Total",37
+"Election Total","Sup Court JD2 Jeffery","NP","NP","Number of Precincts Reporting","NP","Total",37
+"Election Total","Sup Court JD2 Jeffery","NP","NP","Registered Voters","NP","Total",14664
+"Election Total","Sup Court JD2 Jeffery","NP","NP","Times Counted","NP","Total",7168
+"Election Total","Sup Court JD2 Jeffery","NP","NP","Times Blank Voted","NP","Total",445
+"Election Total","Sup Court JD2 Jeffery","NP","NP","Times Over Voted","NP","Total",0
+"Election Total","Sup Court JD2 Jeffery","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Sup Court JD2 Jeffery","NP","NP","YES","NP","Total",4978
+"Election Total","Sup Court JD2 Jeffery","NP","NP","NO","NP","Total",1745
+"Election Total","Sup Court JD3 Cole","NP","NP","Number of Precincts for Race","NP","Total",235
+"Election Total","Sup Court JD3 Cole","NP","NP","Number of Precincts Reporting","NP","Total",235
+"Election Total","Sup Court JD3 Cole","NP","NP","Registered Voters","NP","Total",338746
+"Election Total","Sup Court JD3 Cole","NP","NP","Times Counted","NP","Total",200817
+"Election Total","Sup Court JD3 Cole","NP","NP","Times Blank Voted","NP","Total",39391
+"Election Total","Sup Court JD3 Cole","NP","NP","Times Over Voted","NP","Total",20
+"Election Total","Sup Court JD3 Cole","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Sup Court JD3 Cole","NP","NP","YES","NP","Total",104070
+"Election Total","Sup Court JD3 Cole","NP","NP","NO","NP","Total",57336
+"Election Total","Sup Court JD3 Heath","NP","NP","Number of Precincts for Race","NP","Total",235
+"Election Total","Sup Court JD3 Heath","NP","NP","Number of Precincts Reporting","NP","Total",235
+"Election Total","Sup Court JD3 Heath","NP","NP","Registered Voters","NP","Total",338746
+"Election Total","Sup Court JD3 Heath","NP","NP","Times Counted","NP","Total",200817
+"Election Total","Sup Court JD3 Heath","NP","NP","Times Blank Voted","NP","Total",40605
+"Election Total","Sup Court JD3 Heath","NP","NP","Times Over Voted","NP","Total",21
+"Election Total","Sup Court JD3 Heath","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Sup Court JD3 Heath","NP","NP","YES","NP","Total",102614
+"Election Total","Sup Court JD3 Heath","NP","NP","NO","NP","Total",57577
+"Election Total","Sup Court JD3 Huguelet","NP","NP","Number of Precincts for Race","NP","Total",235
+"Election Total","Sup Court JD3 Huguelet","NP","NP","Number of Precincts Reporting","NP","Total",235
+"Election Total","Sup Court JD3 Huguelet","NP","NP","Registered Voters","NP","Total",338746
+"Election Total","Sup Court JD3 Huguelet","NP","NP","Times Counted","NP","Total",200817
+"Election Total","Sup Court JD3 Huguelet","NP","NP","Times Blank Voted","NP","Total",41385
+"Election Total","Sup Court JD3 Huguelet","NP","NP","Times Over Voted","NP","Total",20
+"Election Total","Sup Court JD3 Huguelet","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Sup Court JD3 Huguelet","NP","NP","YES","NP","Total",100419
+"Election Total","Sup Court JD3 Huguelet","NP","NP","NO","NP","Total",58993
+"Election Total","Sup Court JD3 Morse","NP","NP","Number of Precincts for Race","NP","Total",235
+"Election Total","Sup Court JD3 Morse","NP","NP","Number of Precincts Reporting","NP","Total",235
+"Election Total","Sup Court JD3 Morse","NP","NP","Registered Voters","NP","Total",338746
+"Election Total","Sup Court JD3 Morse","NP","NP","Times Counted","NP","Total",200817
+"Election Total","Sup Court JD3 Morse","NP","NP","Times Blank Voted","NP","Total",41508
+"Election Total","Sup Court JD3 Morse","NP","NP","Times Over Voted","NP","Total",23
+"Election Total","Sup Court JD3 Morse","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Sup Court JD3 Morse","NP","NP","YES","NP","Total",99826
+"Election Total","Sup Court JD3 Morse","NP","NP","NO","NP","Total",59460
+"Election Total","Sup Court JD3 Pfiffner","NP","NP","Number of Precincts for Race","NP","Total",235
+"Election Total","Sup Court JD3 Pfiffner","NP","NP","Number of Precincts Reporting","NP","Total",235
+"Election Total","Sup Court JD3 Pfiffner","NP","NP","Registered Voters","NP","Total",338746
+"Election Total","Sup Court JD3 Pfiffner","NP","NP","Times Counted","NP","Total",200817
+"Election Total","Sup Court JD3 Pfiffner","NP","NP","Times Blank Voted","NP","Total",41834
+"Election Total","Sup Court JD3 Pfiffner","NP","NP","Times Over Voted","NP","Total",15
+"Election Total","Sup Court JD3 Pfiffner","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Sup Court JD3 Pfiffner","NP","NP","YES","NP","Total",100523
+"Election Total","Sup Court JD3 Pfiffner","NP","NP","NO","NP","Total",58445
+"Election Total","Sup Court JD3 Smith","NP","NP","Number of Precincts for Race","NP","Total",235
+"Election Total","Sup Court JD3 Smith","NP","NP","Number of Precincts Reporting","NP","Total",235
+"Election Total","Sup Court JD3 Smith","NP","NP","Registered Voters","NP","Total",338746
+"Election Total","Sup Court JD3 Smith","NP","NP","Times Counted","NP","Total",200817
+"Election Total","Sup Court JD3 Smith","NP","NP","Times Blank Voted","NP","Total",41100
+"Election Total","Sup Court JD3 Smith","NP","NP","Times Over Voted","NP","Total",20
+"Election Total","Sup Court JD3 Smith","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Sup Court JD3 Smith","NP","NP","YES","NP","Total",101035
+"Election Total","Sup Court JD3 Smith","NP","NP","NO","NP","Total",58662
+"Election Total","Sup Court JD3 Suddock","NP","NP","Number of Precincts for Race","NP","Total",235
+"Election Total","Sup Court JD3 Suddock","NP","NP","Number of Precincts Reporting","NP","Total",235
+"Election Total","Sup Court JD3 Suddock","NP","NP","Registered Voters","NP","Total",338746
+"Election Total","Sup Court JD3 Suddock","NP","NP","Times Counted","NP","Total",200817
+"Election Total","Sup Court JD3 Suddock","NP","NP","Times Blank Voted","NP","Total",41124
+"Election Total","Sup Court JD3 Suddock","NP","NP","Times Over Voted","NP","Total",32
+"Election Total","Sup Court JD3 Suddock","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Sup Court JD3 Suddock","NP","NP","YES","NP","Total",98357
+"Election Total","Sup Court JD3 Suddock","NP","NP","NO","NP","Total",61304
+"Election Total","Sup Court JD3 Tan","NP","NP","Number of Precincts for Race","NP","Total",235
+"Election Total","Sup Court JD3 Tan","NP","NP","Number of Precincts Reporting","NP","Total",235
+"Election Total","Sup Court JD3 Tan","NP","NP","Registered Voters","NP","Total",338746
+"Election Total","Sup Court JD3 Tan","NP","NP","Times Counted","NP","Total",200817
+"Election Total","Sup Court JD3 Tan","NP","NP","Times Blank Voted","NP","Total",34700
+"Election Total","Sup Court JD3 Tan","NP","NP","Times Over Voted","NP","Total",101
+"Election Total","Sup Court JD3 Tan","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Sup Court JD3 Tan","NP","NP","YES","NP","Total",91415
+"Election Total","Sup Court JD3 Tan","NP","NP","NO","NP","Total",74601
+"Election Total","Sup Court JD3 Volland","NP","NP","Number of Precincts for Race","NP","Total",235
+"Election Total","Sup Court JD3 Volland","NP","NP","Number of Precincts Reporting","NP","Total",235
+"Election Total","Sup Court JD3 Volland","NP","NP","Registered Voters","NP","Total",338746
+"Election Total","Sup Court JD3 Volland","NP","NP","Times Counted","NP","Total",200817
+"Election Total","Sup Court JD3 Volland","NP","NP","Times Blank Voted","NP","Total",41033
+"Election Total","Sup Court JD3 Volland","NP","NP","Times Over Voted","NP","Total",20
+"Election Total","Sup Court JD3 Volland","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Sup Court JD3 Volland","NP","NP","YES","NP","Total",101897
+"Election Total","Sup Court JD3 Volland","NP","NP","NO","NP","Total",57867
+"Election Total","Sup Court JD3 Wolverton","NP","NP","Number of Precincts for Race","NP","Total",235
+"Election Total","Sup Court JD3 Wolverton","NP","NP","Number of Precincts Reporting","NP","Total",235
+"Election Total","Sup Court JD3 Wolverton","NP","NP","Registered Voters","NP","Total",338746
+"Election Total","Sup Court JD3 Wolverton","NP","NP","Times Counted","NP","Total",200817
+"Election Total","Sup Court JD3 Wolverton","NP","NP","Times Blank Voted","NP","Total",41696
+"Election Total","Sup Court JD3 Wolverton","NP","NP","Times Over Voted","NP","Total",10
+"Election Total","Sup Court JD3 Wolverton","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Sup Court JD3 Wolverton","NP","NP","YES","NP","Total",102931
+"Election Total","Sup Court JD3 Wolverton","NP","NP","NO","NP","Total",56180
+"Election Total","Sup Court JD4 Lyle","NP","NP","Number of Precincts for Race","NP","Total",123
+"Election Total","Sup Court JD4 Lyle","NP","NP","Number of Precincts Reporting","NP","Total",123
+"Election Total","Sup Court JD4 Lyle","NP","NP","Registered Voters","NP","Total",96343
+"Election Total","Sup Court JD4 Lyle","NP","NP","Times Counted","NP","Total",52240
+"Election Total","Sup Court JD4 Lyle","NP","NP","Times Blank Voted","NP","Total",7293
+"Election Total","Sup Court JD4 Lyle","NP","NP","Times Over Voted","NP","Total",8
+"Election Total","Sup Court JD4 Lyle","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Sup Court JD4 Lyle","NP","NP","YES","NP","Total",29961
+"Election Total","Sup Court JD4 Lyle","NP","NP","NO","NP","Total",14978
+"Election Total","Sup Court JD4 McConahy","NP","NP","Number of Precincts for Race","NP","Total",123
+"Election Total","Sup Court JD4 McConahy","NP","NP","Number of Precincts Reporting","NP","Total",123
+"Election Total","Sup Court JD4 McConahy","NP","NP","Registered Voters","NP","Total",96343
+"Election Total","Sup Court JD4 McConahy","NP","NP","Times Counted","NP","Total",52240
+"Election Total","Sup Court JD4 McConahy","NP","NP","Times Blank Voted","NP","Total",7381
+"Election Total","Sup Court JD4 McConahy","NP","NP","Times Over Voted","NP","Total",7
+"Election Total","Sup Court JD4 McConahy","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Sup Court JD4 McConahy","NP","NP","YES","NP","Total",30327
+"Election Total","Sup Court JD4 McConahy","NP","NP","NO","NP","Total",14525
+"Election Total","Dis Court JD1 Levy","NP","NP","Number of Precincts for Race","NP","Total",43
+"Election Total","Dis Court JD1 Levy","NP","NP","Number of Precincts Reporting","NP","Total",43
+"Election Total","Dis Court JD1 Levy","NP","NP","Registered Voters","NP","Total",56679
+"Election Total","Dis Court JD1 Levy","NP","NP","Times Counted","NP","Total",34674
+"Election Total","Dis Court JD1 Levy","NP","NP","Times Blank Voted","NP","Total",5768
+"Election Total","Dis Court JD1 Levy","NP","NP","Times Over Voted","NP","Total",1
+"Election Total","Dis Court JD1 Levy","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Dis Court JD1 Levy","NP","NP","YES","NP","Total",22112
+"Election Total","Dis Court JD1 Levy","NP","NP","NO","NP","Total",6793
+"Election Total","Dis Court JD1 Nave","NP","NP","Number of Precincts for Race","NP","Total",43
+"Election Total","Dis Court JD1 Nave","NP","NP","Number of Precincts Reporting","NP","Total",43
+"Election Total","Dis Court JD1 Nave","NP","NP","Registered Voters","NP","Total",56679
+"Election Total","Dis Court JD1 Nave","NP","NP","Times Counted","NP","Total",34674
+"Election Total","Dis Court JD1 Nave","NP","NP","Times Blank Voted","NP","Total",6022
+"Election Total","Dis Court JD1 Nave","NP","NP","Times Over Voted","NP","Total",2
+"Election Total","Dis Court JD1 Nave","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Dis Court JD1 Nave","NP","NP","YES","NP","Total",21698
+"Election Total","Dis Court JD1 Nave","NP","NP","NO","NP","Total",6952
+"Election Total","Dis Court JD3 Hanley","NP","NP","Number of Precincts for Race","NP","Total",235
+"Election Total","Dis Court JD3 Hanley","NP","NP","Number of Precincts Reporting","NP","Total",235
+"Election Total","Dis Court JD3 Hanley","NP","NP","Registered Voters","NP","Total",338746
+"Election Total","Dis Court JD3 Hanley","NP","NP","Times Counted","NP","Total",200817
+"Election Total","Dis Court JD3 Hanley","NP","NP","Times Blank Voted","NP","Total",42221
+"Election Total","Dis Court JD3 Hanley","NP","NP","Times Over Voted","NP","Total",19
+"Election Total","Dis Court JD3 Hanley","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Dis Court JD3 Hanley","NP","NP","YES","NP","Total",106106
+"Election Total","Dis Court JD3 Hanley","NP","NP","NO","NP","Total",52471
+"Election Total","Dis Court JD3 Murphy","NP","NP","Number of Precincts for Race","NP","Total",235
+"Election Total","Dis Court JD3 Murphy","NP","NP","Number of Precincts Reporting","NP","Total",235
+"Election Total","Dis Court JD3 Murphy","NP","NP","Registered Voters","NP","Total",338746
+"Election Total","Dis Court JD3 Murphy","NP","NP","Times Counted","NP","Total",200817
+"Election Total","Dis Court JD3 Murphy","NP","NP","Times Blank Voted","NP","Total",40989
+"Election Total","Dis Court JD3 Murphy","NP","NP","Times Over Voted","NP","Total",19
+"Election Total","Dis Court JD3 Murphy","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Dis Court JD3 Murphy","NP","NP","YES","NP","Total",103576
+"Election Total","Dis Court JD3 Murphy","NP","NP","NO","NP","Total",56233
+"Election Total","Dis Court JD3 Schally","NP","NP","Number of Precincts for Race","NP","Total",235
+"Election Total","Dis Court JD3 Schally","NP","NP","Number of Precincts Reporting","NP","Total",235
+"Election Total","Dis Court JD3 Schally","NP","NP","Registered Voters","NP","Total",338746
+"Election Total","Dis Court JD3 Schally","NP","NP","Times Counted","NP","Total",200817
+"Election Total","Dis Court JD3 Schally","NP","NP","Times Blank Voted","NP","Total",42450
+"Election Total","Dis Court JD3 Schally","NP","NP","Times Over Voted","NP","Total",10
+"Election Total","Dis Court JD3 Schally","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Dis Court JD3 Schally","NP","NP","YES","NP","Total",101193
+"Election Total","Dis Court JD3 Schally","NP","NP","NO","NP","Total",57164
+"Election Total","Dis Court JD3 Swiderski","NP","NP","Number of Precincts for Race","NP","Total",235
+"Election Total","Dis Court JD3 Swiderski","NP","NP","Number of Precincts Reporting","NP","Total",235
+"Election Total","Dis Court JD3 Swiderski","NP","NP","Registered Voters","NP","Total",338746
+"Election Total","Dis Court JD3 Swiderski","NP","NP","Times Counted","NP","Total",200817
+"Election Total","Dis Court JD3 Swiderski","NP","NP","Times Blank Voted","NP","Total",42196
+"Election Total","Dis Court JD3 Swiderski","NP","NP","Times Over Voted","NP","Total",12
+"Election Total","Dis Court JD3 Swiderski","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Dis Court JD3 Swiderski","NP","NP","YES","NP","Total",101654
+"Election Total","Dis Court JD3 Swiderski","NP","NP","NO","NP","Total",56955
+"Election Total","Dis Court JD3 Wallace","NP","NP","Number of Precincts for Race","NP","Total",235
+"Election Total","Dis Court JD3 Wallace","NP","NP","Number of Precincts Reporting","NP","Total",235
+"Election Total","Dis Court JD3 Wallace","NP","NP","Registered Voters","NP","Total",338746
+"Election Total","Dis Court JD3 Wallace","NP","NP","Times Counted","NP","Total",200817
+"Election Total","Dis Court JD3 Wallace","NP","NP","Times Blank Voted","NP","Total",42251
+"Election Total","Dis Court JD3 Wallace","NP","NP","Times Over Voted","NP","Total",21
+"Election Total","Dis Court JD3 Wallace","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Dis Court JD3 Wallace","NP","NP","YES","NP","Total",104538
+"Election Total","Dis Court JD3 Wallace","NP","NP","NO","NP","Total",54007
+"Election Total","Dis Court JD3 Washington","NP","NP","Number of Precincts for Race","NP","Total",235
+"Election Total","Dis Court JD3 Washington","NP","NP","Number of Precincts Reporting","NP","Total",235
+"Election Total","Dis Court JD3 Washington","NP","NP","Registered Voters","NP","Total",338746
+"Election Total","Dis Court JD3 Washington","NP","NP","Times Counted","NP","Total",200817
+"Election Total","Dis Court JD3 Washington","NP","NP","Times Blank Voted","NP","Total",41252
+"Election Total","Dis Court JD3 Washington","NP","NP","Times Over Voted","NP","Total",22
+"Election Total","Dis Court JD3 Washington","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Dis Court JD3 Washington","NP","NP","YES","NP","Total",105616
+"Election Total","Dis Court JD3 Washington","NP","NP","NO","NP","Total",53927
+"Election Total","Dis Court JD3 Zwink","NP","NP","Number of Precincts for Race","NP","Total",235
+"Election Total","Dis Court JD3 Zwink","NP","NP","Number of Precincts Reporting","NP","Total",235
+"Election Total","Dis Court JD3 Zwink","NP","NP","Registered Voters","NP","Total",338746
+"Election Total","Dis Court JD3 Zwink","NP","NP","Times Counted","NP","Total",200817
+"Election Total","Dis Court JD3 Zwink","NP","NP","Times Blank Voted","NP","Total",41619
+"Election Total","Dis Court JD3 Zwink","NP","NP","Times Over Voted","NP","Total",11
+"Election Total","Dis Court JD3 Zwink","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Dis Court JD3 Zwink","NP","NP","YES","NP","Total",103514
+"Election Total","Dis Court JD3 Zwink","NP","NP","NO","NP","Total",55673
+"Election Total","Dis Court JD4 Hammers","NP","NP","Number of Precincts for Race","NP","Total",123
+"Election Total","Dis Court JD4 Hammers","NP","NP","Number of Precincts Reporting","NP","Total",123
+"Election Total","Dis Court JD4 Hammers","NP","NP","Registered Voters","NP","Total",96343
+"Election Total","Dis Court JD4 Hammers","NP","NP","Times Counted","NP","Total",52240
+"Election Total","Dis Court JD4 Hammers","NP","NP","Times Blank Voted","NP","Total",7380
+"Election Total","Dis Court JD4 Hammers","NP","NP","Times Over Voted","NP","Total",8
+"Election Total","Dis Court JD4 Hammers","NP","NP","Number of Under Votes","NP","Total",0
+"Election Total","Dis Court JD4 Hammers","NP","NP","YES","NP","Total",30854
+"Election Total","Dis Court JD4 Hammers","NP","NP","NO","NP","Total",13998
