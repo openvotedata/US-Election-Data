@@ -1,0 +1,108 @@
+Textbox11	Textbox3	Textbox2	Textbox9	Textbox12	Textbox8																			
+RCV Detailed Report	General Election	State of Alaska	8-Nov-22																					
+																								
+Textbox24	Textbox21	Textbox53	state	timeStamp																				
+Senate District N	Official results	Number of positions to elect is 1.	All Positions Filled	11/30/2022 13:41																				
+																								
+Textbox36	Textbox41	winnersByThreshold	usesDistricts	previousRoundsEvaluation	eliminationType	fixedPrecisionDecimals	performEliminationTransferInLastRound	skipOvervotedRankings	votesToInThresholdCalculation	useFirstRoundSuspension	skipRankingsRule													
+IRV	TRUE	FALSE	TRUE	None	Single	0	TRUE	FALSE	Continuing ballots per round	FALSE	Exhausted on Two or More Ranks Skipped													
+																								
+Textbox35	Textbox86	choiceName2	votes	Textbox17	points	continuingVotes	points1	choiceName3	votes1	points2	nonTransferableVotes	nonTransferablePoints	surplus	Textbox14	choiceName4	Textbox2	Textbox21	Textbox44	Textbox47	sourceChoiceName	choiceName	ballotsTransferred3	transferFraction3	votes5
+State of Alaska	Round 1	"Clayton, Scott D."	"2,977"	25.82%	0	"11,532"	0				"2,244"	0	0											
+State of Alaska	Round 1	"Wilson, David S."	"5,170"	44.83%	0	"11,532"	0				"2,244"	0	0											
+State of Alaska	Round 1	"Wright, Stephen"	"3,385"	29.35%	0	"11,532"	0				"2,244"	0	0											
+State of Alaska	Round 1	Blanks	"2,226"	19.30%	0	"11,532"	0				"2,244"	0	0											
+State of Alaska	Round 1	Exhausted	0	0.00%	0	"11,532"	0				"2,244"	0	0											
+State of Alaska	Round 1	Overvotes	18	0.16%	0	"11,532"	0				"2,244"	0	0											
+State of Alaska	Round 1	Remainder Points	0	0.00%	0	"11,532"	0				"2,244"	0	0											
+State of Alaska	Round 1					"11,532"	0	"Clayton, Scott D."	"2,977"	0	"2,244"	0	0											
+State of Alaska	Round 1					"11,532"	0	"Wilson, David S."	"5,170"	0	"2,244"	0	0											
+State of Alaska	Round 1					"11,532"	0	"Wright, Stephen"	"3,385"	0	"2,244"	0	0											
+State of Alaska	Round 1					"11,532"	0	Blanks	"2,226"	0	"2,244"	0	0											
+State of Alaska	Round 1					"11,532"	0	Exhausted	0	0	"2,244"	0	0											
+State of Alaska	Round 1					"11,532"	0	Overvotes	18	0	"2,244"	0	0											
+State of Alaska	Round 1					"11,532"	0	Remainder Points	0	0	"2,244"	0	0											
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska															"Clayton, Scott D."									
+State of Alaska															"Wilson, David S."									
+State of Alaska															"Wright, Stephen"									
+State of Alaska															Blanks									
+State of Alaska															Exhausted									
+State of Alaska															Overvotes									
+State of Alaska															Remainder Points									
+State of Alaska																"The tie is broken by selecting Clayton, Scott D.."								
+State of Alaska																"The tie is broken by selecting Wilson, David S.."								
+State of Alaska																"The tie is broken by selecting Wright, Stephen."								
+State of Alaska																The tie is broken by selecting Blanks.								
+State of Alaska																The tie is broken by selecting Exhausted.								
+State of Alaska																The tie is broken by selecting Overvotes.								
+State of Alaska																The tie is broken by selecting Remainder Points.								
+State of Alaska																	"Clayton, Scott D. is eliminated because the candidate had the least amount of votes."							
+State of Alaska																	"Wilson, David S. is  because "							
+State of Alaska																	"Wright, Stephen is  because "							
+State of Alaska																	Blanks is  because 							
+State of Alaska																	Exhausted is  because 							
+State of Alaska																	Overvotes is  because 							
+State of Alaska																	Remainder Points is  because 							
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Blanks			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Remainder Points			
+State of Alaska																		"Elimination transfer for candidate Clayton, Scott D.."	2977 ballots have been transferred in the following manner:	"Clayton, Scott D."	"Clayton, Scott D."	2977	1	"-2,977"
+State of Alaska																		"Elimination transfer for candidate Clayton, Scott D.."	2977 ballots have been transferred in the following manner:	"Clayton, Scott D."	"Wilson, David S."	954	1	954
+State of Alaska																		"Elimination transfer for candidate Clayton, Scott D.."	2977 ballots have been transferred in the following manner:	"Clayton, Scott D."	"Wright, Stephen"	926	1	926
+State of Alaska																		"Elimination transfer for candidate Clayton, Scott D.."	2977 ballots have been transferred in the following manner:	"Clayton, Scott D."	Exhausted	1093	1	"1,093"
+State of Alaska																		"Elimination transfer for candidate Clayton, Scott D.."	2977 ballots have been transferred in the following manner:	"Clayton, Scott D."	Overvotes	4	1	4
+State of Alaska	Round 2	"Clayton, Scott D."	0	0.00%	0	"10,435"	0				"3,341"	0	0											
+State of Alaska	Round 2	"Wilson, David S."	"6,124"	58.69%	0	"10,435"	0				"3,341"	0	0											
+State of Alaska	Round 2	"Wright, Stephen"	"4,311"	41.31%	0	"10,435"	0				"3,341"	0	0											
+State of Alaska	Round 2	Blanks	"2,226"	21.33%	0	"10,435"	0				"3,341"	0	0											
+State of Alaska	Round 2	Exhausted	"1,093"	10.47%	0	"10,435"	0				"3,341"	0	0											
+State of Alaska	Round 2	Overvotes	22	0.21%	0	"10,435"	0				"3,341"	0	0											
+State of Alaska	Round 2	Remainder Points	0	0.00%	0	"10,435"	0				"3,341"	0	0											
+State of Alaska	Round 2					"10,435"	0	"Clayton, Scott D."	0	0	"3,341"	0	0											
+State of Alaska	Round 2					"10,435"	0	"Wilson, David S."	"6,124"	0	"3,341"	0	0											
+State of Alaska	Round 2					"10,435"	0	"Wright, Stephen"	"4,311"	0	"3,341"	0	0											
+State of Alaska	Round 2					"10,435"	0	Blanks	"2,226"	0	"3,341"	0	0											
+State of Alaska	Round 2					"10,435"	0	Exhausted	"1,093"	0	"3,341"	0	0											
+State of Alaska	Round 2					"10,435"	0	Overvotes	22	0	"3,341"	0	0											
+State of Alaska	Round 2					"10,435"	0	Remainder Points	0	0	"3,341"	0	0											
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska															"Clayton, Scott D."									
+State of Alaska															"Wilson, David S."									
+State of Alaska															"Wright, Stephen"									
+State of Alaska															Blanks									
+State of Alaska															Exhausted									
+State of Alaska															Overvotes									
+State of Alaska															Remainder Points									
+State of Alaska																"The tie is broken by selecting Clayton, Scott D.."								
+State of Alaska																"The tie is broken by selecting Wilson, David S.."								
+State of Alaska																"The tie is broken by selecting Wright, Stephen."								
+State of Alaska																The tie is broken by selecting Blanks.								
+State of Alaska																The tie is broken by selecting Exhausted.								
+State of Alaska																The tie is broken by selecting Overvotes.								
+State of Alaska																The tie is broken by selecting Remainder Points.								
+State of Alaska																	"Clayton, Scott D. is  because "							
+State of Alaska																	"Wilson, David S. is elected because all other candidates have been eliminated."							
+State of Alaska																	"Wright, Stephen is eliminated because the candidate was not elected in the last round."							
+State of Alaska																	Blanks is  because 							
+State of Alaska																	Exhausted is  because 							
+State of Alaska																	Overvotes is  because 							
+State of Alaska																	Remainder Points is  because 							
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		"Clayton, Scott D."			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		"Wilson, David S."			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		"Wright, Stephen"			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Blanks			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Exhausted			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Overvotes			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Remainder Points			

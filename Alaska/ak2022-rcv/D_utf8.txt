@@ -1,0 +1,108 @@
+Textbox11	Textbox3	Textbox2	Textbox9	Textbox12	Textbox8																			
+RCV Detailed Report	General Election	State of Alaska	8-Nov-22																					
+																								
+Textbox24	Textbox21	Textbox53	state	timeStamp																				
+Senate District D	Official results	Number of positions to elect is 1.	All Positions Filled	11/30/2022 13:39																				
+																								
+Textbox36	Textbox41	winnersByThreshold	usesDistricts	previousRoundsEvaluation	eliminationType	fixedPrecisionDecimals	performEliminationTransferInLastRound	skipOvervotedRankings	votesToInThresholdCalculation	useFirstRoundSuspension	skipRankingsRule													
+IRV	TRUE	FALSE	TRUE	None	Single	0	TRUE	FALSE	Continuing ballots per round	FALSE	Exhausted on Two or More Ranks Skipped													
+																								
+Textbox35	Textbox86	choiceName2	votes	Textbox17	points	continuingVotes	points1	choiceName3	votes1	points2	nonTransferableVotes	nonTransferablePoints	surplus	Textbox14	choiceName4	Textbox2	Textbox21	Textbox44	Textbox47	sourceChoiceName	choiceName	ballotsTransferred3	transferFraction3	votes5
+State of Alaska	Round 1	"Babcock, Tuckerman"	"6,331"	41.68%	0	"15,190"	0				"1,046"	0	0											
+State of Alaska	Round 1	"Bjorkman, Jesse J."	"7,072"	46.56%	0	"15,190"	0				"1,046"	0	0											
+State of Alaska	Round 1	"Cizek, Andy"	"1,787"	11.76%	0	"15,190"	0				"1,046"	0	0											
+State of Alaska	Round 1	Blanks	"1,031"	6.79%	0	"15,190"	0				"1,046"	0	0											
+State of Alaska	Round 1	Exhausted	0	0.00%	0	"15,190"	0				"1,046"	0	0											
+State of Alaska	Round 1	Overvotes	15	0.10%	0	"15,190"	0				"1,046"	0	0											
+State of Alaska	Round 1	Remainder Points	0	0.00%	0	"15,190"	0				"1,046"	0	0											
+State of Alaska	Round 1					"15,190"	0	"Babcock, Tuckerman"	"6,331"	0	"1,046"	0	0											
+State of Alaska	Round 1					"15,190"	0	"Bjorkman, Jesse J."	"7,072"	0	"1,046"	0	0											
+State of Alaska	Round 1					"15,190"	0	"Cizek, Andy"	"1,787"	0	"1,046"	0	0											
+State of Alaska	Round 1					"15,190"	0	Blanks	"1,031"	0	"1,046"	0	0											
+State of Alaska	Round 1					"15,190"	0	Exhausted	0	0	"1,046"	0	0											
+State of Alaska	Round 1					"15,190"	0	Overvotes	15	0	"1,046"	0	0											
+State of Alaska	Round 1					"15,190"	0	Remainder Points	0	0	"1,046"	0	0											
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska															"Babcock, Tuckerman"									
+State of Alaska															"Bjorkman, Jesse J."									
+State of Alaska															"Cizek, Andy"									
+State of Alaska															Blanks									
+State of Alaska															Exhausted									
+State of Alaska															Overvotes									
+State of Alaska															Remainder Points									
+State of Alaska																"The tie is broken by selecting Babcock, Tuckerman."								
+State of Alaska																"The tie is broken by selecting Bjorkman, Jesse J.."								
+State of Alaska																"The tie is broken by selecting Cizek, Andy."								
+State of Alaska																The tie is broken by selecting Blanks.								
+State of Alaska																The tie is broken by selecting Exhausted.								
+State of Alaska																The tie is broken by selecting Overvotes.								
+State of Alaska																The tie is broken by selecting Remainder Points.								
+State of Alaska																	"Babcock, Tuckerman is  because "							
+State of Alaska																	"Bjorkman, Jesse J. is  because "							
+State of Alaska																	"Cizek, Andy is eliminated because the candidate had the least amount of votes."							
+State of Alaska																	Blanks is  because 							
+State of Alaska																	Exhausted is  because 							
+State of Alaska																	Overvotes is  because 							
+State of Alaska																	Remainder Points is  because 							
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Blanks			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Remainder Points			
+State of Alaska																		"Elimination transfer for candidate Cizek, Andy."	1787 ballots have been transferred in the following manner:	"Cizek, Andy"	"Babcock, Tuckerman"	263	1	263
+State of Alaska																		"Elimination transfer for candidate Cizek, Andy."	1787 ballots have been transferred in the following manner:	"Cizek, Andy"	"Bjorkman, Jesse J."	532	1	532
+State of Alaska																		"Elimination transfer for candidate Cizek, Andy."	1787 ballots have been transferred in the following manner:	"Cizek, Andy"	"Cizek, Andy"	1787	1	"-1,787"
+State of Alaska																		"Elimination transfer for candidate Cizek, Andy."	1787 ballots have been transferred in the following manner:	"Cizek, Andy"	Exhausted	990	1	990
+State of Alaska																		"Elimination transfer for candidate Cizek, Andy."	1787 ballots have been transferred in the following manner:	"Cizek, Andy"	Overvotes	2	1	2
+State of Alaska	Round 2	"Babcock, Tuckerman"	"6,594"	46.44%	0	"14,198"	0				"2,038"	0	0											
+State of Alaska	Round 2	"Bjorkman, Jesse J."	"7,604"	53.56%	0	"14,198"	0				"2,038"	0	0											
+State of Alaska	Round 2	"Cizek, Andy"	0	0.00%	0	"14,198"	0				"2,038"	0	0											
+State of Alaska	Round 2	Blanks	"1,031"	7.26%	0	"14,198"	0				"2,038"	0	0											
+State of Alaska	Round 2	Exhausted	990	6.97%	0	"14,198"	0				"2,038"	0	0											
+State of Alaska	Round 2	Overvotes	17	0.12%	0	"14,198"	0				"2,038"	0	0											
+State of Alaska	Round 2	Remainder Points	0	0.00%	0	"14,198"	0				"2,038"	0	0											
+State of Alaska	Round 2					"14,198"	0	"Babcock, Tuckerman"	"6,594"	0	"2,038"	0	0											
+State of Alaska	Round 2					"14,198"	0	"Bjorkman, Jesse J."	"7,604"	0	"2,038"	0	0											
+State of Alaska	Round 2					"14,198"	0	"Cizek, Andy"	0	0	"2,038"	0	0											
+State of Alaska	Round 2					"14,198"	0	Blanks	"1,031"	0	"2,038"	0	0											
+State of Alaska	Round 2					"14,198"	0	Exhausted	990	0	"2,038"	0	0											
+State of Alaska	Round 2					"14,198"	0	Overvotes	17	0	"2,038"	0	0											
+State of Alaska	Round 2					"14,198"	0	Remainder Points	0	0	"2,038"	0	0											
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska															"Babcock, Tuckerman"									
+State of Alaska															"Bjorkman, Jesse J."									
+State of Alaska															"Cizek, Andy"									
+State of Alaska															Blanks									
+State of Alaska															Exhausted									
+State of Alaska															Overvotes									
+State of Alaska															Remainder Points									
+State of Alaska																"The tie is broken by selecting Babcock, Tuckerman."								
+State of Alaska																"The tie is broken by selecting Bjorkman, Jesse J.."								
+State of Alaska																"The tie is broken by selecting Cizek, Andy."								
+State of Alaska																The tie is broken by selecting Blanks.								
+State of Alaska																The tie is broken by selecting Exhausted.								
+State of Alaska																The tie is broken by selecting Overvotes.								
+State of Alaska																The tie is broken by selecting Remainder Points.								
+State of Alaska																	"Babcock, Tuckerman is eliminated because the candidate was not elected in the last round."							
+State of Alaska																	"Bjorkman, Jesse J. is elected because all other candidates have been eliminated."							
+State of Alaska																	"Cizek, Andy is  because "							
+State of Alaska																	Blanks is  because 							
+State of Alaska																	Exhausted is  because 							
+State of Alaska																	Overvotes is  because 							
+State of Alaska																	Remainder Points is  because 							
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		"Babcock, Tuckerman"			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		"Bjorkman, Jesse J."			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		"Cizek, Andy"			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Blanks			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Exhausted			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Overvotes			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Remainder Points			

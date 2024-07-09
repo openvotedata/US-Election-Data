@@ -1,0 +1,108 @@
+Textbox11	Textbox3	Textbox2	Textbox9	Textbox12	Textbox8																			
+RCV Detailed Report	General Election	State of Alaska	8-Nov-22																					
+																								
+Textbox24	Textbox21	Textbox53	state	timeStamp																				
+House District 15	Official results	Number of positions to elect is 1.	All Positions Filled	11/30/2022 13:43																				
+																								
+Textbox36	Textbox41	winnersByThreshold	usesDistricts	previousRoundsEvaluation	eliminationType	fixedPrecisionDecimals	performEliminationTransferInLastRound	skipOvervotedRankings	votesToInThresholdCalculation	useFirstRoundSuspension	skipRankingsRule													
+IRV	TRUE	FALSE	TRUE	None	Single	0	TRUE	FALSE	Continuing ballots per round	FALSE	Exhausted on Two or More Ranks Skipped													
+																								
+Textbox35	Textbox86	choiceName2	votes	Textbox17	points	continuingVotes	points1	choiceName3	votes1	points2	nonTransferableVotes	nonTransferablePoints	surplus	Textbox14	choiceName4	Textbox2	Textbox21	Textbox44	Textbox47	sourceChoiceName	choiceName	ballotsTransferred3	transferFraction3	votes5
+State of Alaska	Round 1	"Wells, Denny"	"3,384"	46.60%	0	"7,262"	0				447	0	0											
+State of Alaska	Round 1	"Eibeck, David"	"1,039"	14.31%	0	"7,262"	0				447	0	0											
+State of Alaska	Round 1	"McKay, Thomas W. ""Tom"""	"2,839"	39.09%	0	"7,262"	0				447	0	0											
+State of Alaska	Round 1	Blanks	442	6.09%	0	"7,262"	0				447	0	0											
+State of Alaska	Round 1	Exhausted	0	0.00%	0	"7,262"	0				447	0	0											
+State of Alaska	Round 1	Overvotes	5	0.07%	0	"7,262"	0				447	0	0											
+State of Alaska	Round 1	Remainder Points	0	0.00%	0	"7,262"	0				447	0	0											
+State of Alaska	Round 1					"7,262"	0	"Wells, Denny"	"3,384"	0	447	0	0											
+State of Alaska	Round 1					"7,262"	0	"Eibeck, David"	"1,039"	0	447	0	0											
+State of Alaska	Round 1					"7,262"	0	"McKay, Thomas W. ""Tom"""	"2,839"	0	447	0	0											
+State of Alaska	Round 1					"7,262"	0	Blanks	442	0	447	0	0											
+State of Alaska	Round 1					"7,262"	0	Exhausted	0	0	447	0	0											
+State of Alaska	Round 1					"7,262"	0	Overvotes	5	0	447	0	0											
+State of Alaska	Round 1					"7,262"	0	Remainder Points	0	0	447	0	0											
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska															"Wells, Denny"									
+State of Alaska															"Eibeck, David"									
+State of Alaska															"McKay, Thomas W. ""Tom"""									
+State of Alaska															Blanks									
+State of Alaska															Exhausted									
+State of Alaska															Overvotes									
+State of Alaska															Remainder Points									
+State of Alaska																"The tie is broken by selecting Wells, Denny."								
+State of Alaska																"The tie is broken by selecting Eibeck, David."								
+State of Alaska																"The tie is broken by selecting McKay, Thomas W. ""Tom""."								
+State of Alaska																The tie is broken by selecting Blanks.								
+State of Alaska																The tie is broken by selecting Exhausted.								
+State of Alaska																The tie is broken by selecting Overvotes.								
+State of Alaska																The tie is broken by selecting Remainder Points.								
+State of Alaska																	"Wells, Denny is  because "							
+State of Alaska																	"Eibeck, David is eliminated because the candidate had the least amount of votes."							
+State of Alaska																	"McKay, Thomas W. ""Tom"" is  because "							
+State of Alaska																	Blanks is  because 							
+State of Alaska																	Exhausted is  because 							
+State of Alaska																	Overvotes is  because 							
+State of Alaska																	Remainder Points is  because 							
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Blanks			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Overvotes			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Remainder Points			
+State of Alaska																		"Elimination transfer for candidate Eibeck, David."	1039 ballots have been transferred in the following manner:	"Eibeck, David"	"Wells, Denny"	92	1	92
+State of Alaska																		"Elimination transfer for candidate Eibeck, David."	1039 ballots have been transferred in the following manner:	"Eibeck, David"	"Eibeck, David"	1039	1	"-1,039"
+State of Alaska																		"Elimination transfer for candidate Eibeck, David."	1039 ballots have been transferred in the following manner:	"Eibeck, David"	"McKay, Thomas W. ""Tom"""	644	1	644
+State of Alaska																		"Elimination transfer for candidate Eibeck, David."	1039 ballots have been transferred in the following manner:	"Eibeck, David"	Exhausted	303	1	303
+State of Alaska	Round 2	"Wells, Denny"	"3,476"	49.95%	0	"6,959"	0				750	0	0											
+State of Alaska	Round 2	"Eibeck, David"	0	0.00%	0	"6,959"	0				750	0	0											
+State of Alaska	Round 2	"McKay, Thomas W. ""Tom"""	"3,483"	50.05%	0	"6,959"	0				750	0	0											
+State of Alaska	Round 2	Blanks	442	6.35%	0	"6,959"	0				750	0	0											
+State of Alaska	Round 2	Exhausted	303	4.35%	0	"6,959"	0				750	0	0											
+State of Alaska	Round 2	Overvotes	5	0.07%	0	"6,959"	0				750	0	0											
+State of Alaska	Round 2	Remainder Points	0	0.00%	0	"6,959"	0				750	0	0											
+State of Alaska	Round 2					"6,959"	0	"Wells, Denny"	"3,476"	0	750	0	0											
+State of Alaska	Round 2					"6,959"	0	"Eibeck, David"	0	0	750	0	0											
+State of Alaska	Round 2					"6,959"	0	"McKay, Thomas W. ""Tom"""	"3,483"	0	750	0	0											
+State of Alaska	Round 2					"6,959"	0	Blanks	442	0	750	0	0											
+State of Alaska	Round 2					"6,959"	0	Exhausted	303	0	750	0	0											
+State of Alaska	Round 2					"6,959"	0	Overvotes	5	0	750	0	0											
+State of Alaska	Round 2					"6,959"	0	Remainder Points	0	0	750	0	0											
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska														A tie occurred during 										
+State of Alaska															"Wells, Denny"									
+State of Alaska															"Eibeck, David"									
+State of Alaska															"McKay, Thomas W. ""Tom"""									
+State of Alaska															Blanks									
+State of Alaska															Exhausted									
+State of Alaska															Overvotes									
+State of Alaska															Remainder Points									
+State of Alaska																"The tie is broken by selecting Wells, Denny."								
+State of Alaska																"The tie is broken by selecting Eibeck, David."								
+State of Alaska																"The tie is broken by selecting McKay, Thomas W. ""Tom""."								
+State of Alaska																The tie is broken by selecting Blanks.								
+State of Alaska																The tie is broken by selecting Exhausted.								
+State of Alaska																The tie is broken by selecting Overvotes.								
+State of Alaska																The tie is broken by selecting Remainder Points.								
+State of Alaska																	"Wells, Denny is eliminated because the candidate was not elected in the last round."							
+State of Alaska																	"Eibeck, David is  because "							
+State of Alaska																	"McKay, Thomas W. ""Tom"" is elected because all other candidates have been eliminated."							
+State of Alaska																	Blanks is  because 							
+State of Alaska																	Exhausted is  because 							
+State of Alaska																	Overvotes is  because 							
+State of Alaska																	Remainder Points is  because 							
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		"Wells, Denny"			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		"Eibeck, David"			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		"McKay, Thomas W. ""Tom"""			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Blanks			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Exhausted			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Overvotes			
+State of Alaska																		 transfer for candidate .	 ballots have been transferred in the following manner:		Remainder Points			
